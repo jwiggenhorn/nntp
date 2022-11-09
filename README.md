@@ -1,6 +1,6 @@
 # NNTP Client/Server Implementation
 
-This is a basic client and server implementation for the NNTP protocol.
+This is a basic [NNTP](https://datatracker.ietf.org/doc/html/rfc3977) client and server implementation.
 
 ## Compilation
 
