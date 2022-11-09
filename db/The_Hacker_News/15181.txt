@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: What is AS-REP Roasting attack, really?
+Author: The Hacker News
+Date: Thu, 02 Sep 2021 10:48:58 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/33geH4Ccu3Q/what-is-as-rep-roasting-attack-really.html
+Message-ID: <PDpE09Ei@thn.com>
+ 
+Microsoft's Active Directory is said to be used by 95% of Fortune 500. As a 
+result, it is a prime target for attackers as they look to gain access to 
+credentials in the organization, as compromised credentials provide one of the 
+easiest ways for hackers to access your data. A key authentication technology 
+that underpins Microsoft Active Directory is Kerberos. Unfortunately, hackers 
+use many[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/33geH4Ccu3Q (image)
+

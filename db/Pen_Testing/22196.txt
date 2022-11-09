@@ -1,0 +1,122 @@
+Feed: KitPloit - PenTest Tools!
+Title: Owt - The Most Compact WiFi Auditing Tool That Works On Command Line 
+Linux
+Author: Unknown
+Message-ID: <hsoKiL@kitploit.com>
+Date: Thu, 09 Sep 2021 15:30:00 -0500
+Link: http://feedproxy.google.com/~r/PentestTools/~3/ardYBcdEwxg/owt-most-compact-wifi-auditing-tool.html
+ 
+[1][image 1 (link #3)][2] 
+ 
+ 
+This tool compiles some necessary tools for wifi auditing[4] in a unix bash 
+script with a user friendly[5] interface. The goal of owt is to have the 
+smallest file size possible while still functioning at maximum proficiency.
+ 
+ 
+Installation & Running the script
+ 
+~ $ git clone https://github.com/clu3bot/OWT.git
+~ $ cd owt
+~ $ sudo bash owt.sh
+ 
+Note: owt requires root privileges
+ 
+Make sure to allow updates regularly
+ 
+Usage
+ 
+Detailed How-to of owt can be found here
+ 
+  * Usage[6]
+ 
+ 
+Troubleshooting
+ 
+Troubleshoot.sh will detect possible problems you may have with owt
+ 
+~ $ cd owt
+~ $ sudo bash troubleshoot.sh
+ 
+ 
+owt Premium Edition
+ 
+  * Premium[7]
+ 
+ 
+Dependencies
+ 
+  * aircrack-ng
+  * mdk3
+  * xterm
+  * macchanger
+  * owt tool will prompt the user to download these dependencies if they arent 
+  installed.
+ 
+ 
+In The Works
+ 
+  * Expanding owt from being just for wireless[8] network attacking. More 
+  information below.
+  * Adding more advanced functionality to owt such as NTP amplification attacks 
+  to screw with NTP servers for dosing websites.
+  * Adding AP tracking[9] functionality and ability to save lists of common 
+  saved networks that devices have in the area. I.E if there is a starbucks near
+  by you can track if starbucks is a common AP that phones in the area have as a
+  saved network. This is useful for knowing which APs to spoof.
+  * Adding a method of saving text or csv files of device names and 
+  mac-addresses on a newtwork.
+  * Making a windows version of owt.
+  * Major U.I changes
+  * Fixing the "issue" where owt doesn't support use within Virtual Machines. 
+  Not priority as this is a pain in the ass but has been requested :)
+ 
+ 
+History
+ 
+owt Version History[10] can be found here
+ 
+  * Versions[11]
+ 
+Stable Releases Source Code can be found here
+ 
+  * Releases[12]
+ 
+ 
+All Resources
+ 
+  * Contact me here[13]
+  * Tutorial for owt here[6]
+  * owt wiki here[14]
+  * Updates/Versions history here[11]
+  * Help and Troubleshooting here[15]
+ 
+ 
+Legal Notice
+ 
+This script is intended to be used on networks you own. Don't use this script 
+maliciously. You are responsible for your own actions.
+ 
+ 
+Download Owt[16]
+[image 2 (link #17)]
+ 
+Links: 
+[1]: https://github.com/clu3bot/owt/blob/main/img/img6.png (link)
+[2]: http://4.bp.blogspot.com/-47zK45rNNLA/YTVOua-LQZI/AAAAAAAAuOQ/k5ma7Uosp3gkK_4A5k7dyVJXQk3QcAzugCK4BGAYYCw/s1600/owt_1_img6-703729.png (link)
+[3]: http://4.bp.blogspot.com/-47zK45rNNLA/YTVOua-LQZI/AAAAAAAAuOQ/k5ma7Uosp3gkK_4A5k7dyVJXQk3QcAzugCK4BGAYYCw/w640-h150/owt_1_img6-703729.png (image)
+[4]: https://www.kitploit.com/search/label/Auditing (link)
+[5]: https://www.kitploit.com/search/label/User%20Friendly (link)
+[6]: https://github.com/clu3bot/owt/wiki/Usage (link)
+[7]: https://github.com/clu3bot/owt/wiki/owt-Premium (link)
+[8]: https://www.kitploit.com/search/label/Wireless (link)
+[9]: https://www.kitploit.com/search/label/Tracking (link)
+[10]: https://www.kitploit.com/search/label/History (link)
+[11]: https://github.com/clu3bot/owt/wiki/Versions (link)
+[12]: https://github.com/clu3bot/owt/releases (link)
+[13]: https://github.com/clu3bot/owt/wiki/Contact (link)
+[14]: https://github.com/clu3bot/owt/wiki/ (link)
+[15]: https://github.com/clu3bot/owt/wiki/Help (link)
+[16]: https://github.com/clu3bot/owt (link)
+[17]: http://feeds.feedburner.com/~r/PentestTools/~4/ardYBcdEwxg (image)
+

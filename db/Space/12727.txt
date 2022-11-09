@@ -1,0 +1,55 @@
+Feed:  Universe Today
+Title: A map of 25,000 Supermassive Black Holes Across the Universe
+Message-ID: <hQ3D@nasa.org>
+Author: Brian Koberlein
+Date: Tue, 23 Feb 2021 14:55:45 -0600
+Link: https://www.universetoday.com/150248/a-map-of-25000-supermassive-black-holes-across-the-universe/
+ 
+The Low-Frequency Array (LOFAR) is a different kind of radio telescope. Although
+radio light has the longest wavelengths and lowest frequencies of the 
+electromagnetic spectrum, much of radio astronomy has focused on the higher 
+frequency end. Observatories such as ALMA study radio light at frequencies of 
+hundreds of Gigahertz, and the VLA studies the fifty Gigahertz range, LOFAR 
+captures radio signals below 250 Megahertz, which is in the range of the lowest 
+radio frequencies that can be seen from Earth.
+[image 1 (link #1)]Most low frequency radio sources are yet to be explored. 
+Credit: de Gasperin, et al 
+ 
+Low-frequency radio astronomy is challenging because astronomical radio sources 
+are very faint. Low-frequency light also has a longer wavelength, which means 
+that it is hard to capture radio images with good resolution. To overcome these 
+challenges, LOFAR uses an array of omnidirectional antennas. It has about 20,000
+antennas clustered at 52 stations across Europe. Together they create a virtual 
+telescope more than 1,000 kilometers across. With such a large number of 
+antennas, processing the data is extremely complex. Other radio telescopes also 
+combine multiple signals from an antenna array, but LOFAR operates at such low 
+frequencies that Earth’s ionosphere can distort the signals. It’s similar to the
+way visible light can be distorted when viewed through ripples of water. So 
+powerful new software had to be developed to convert the radio data into images 
+of the sky.
+ 
+Recently, LOFAR released the first data on its Long Baseline Array Sky Survey. 
+They have only mapped 4% of the northern sky so far, but have already mapped 
+25,000 supermassive black holes. While the universe is filled with radio 
+sources, most low-frequency radio light comes from concentrated sources such as 
+black holes at the hearts of galaxies. LOFAR has a high enough resolution that 
+the black hole map looks like a starry night, with each black hole as an 
+isolated radio dot, as you can see in the image above.
+ 
+It will take several more years for the team to make a full map of the northern 
+sky. When completed, the sky survey could help us learn not only about black 
+holes but also about the large-scale structure of the cosmos.
+ 
+Reference: de Gasperin, F., et al. “The LOFAR LBA Sky Survey I. survey 
+description and preliminary data release[2].” arXiv preprint arXiv:2102.09238 
+(2021).
+ 
+The post A map of 25,000 Supermassive Black Holes Across the Universe[3] 
+appeared first on Universe Today[4].
+ 
+Links: 
+[1]: https://www.universetoday.com/wp-content/uploads/2021/02/explored-1024x901.jpg (image)
+[2]: https://arxiv.org/abs/2102.09238 (link)
+[3]: https://www.universetoday.com/150248/a-map-of-25000-supermassive-black-holes-across-the-universe/ (link)
+[4]: https://www.universetoday.com/ (link)
+

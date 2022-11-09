@@ -1,0 +1,11 @@
+Feed: CS Hub: Attacks
+Title: IOTW: Ransomware Attack Closes Colonial Pipeline
+Author: Lisa Morgan 
+Date: Thu, 13 May 2021 19:00:05 -0500
+Message-ID: <WH8HGVft6jp@cshub.com>
+Link: https://www.cshub.com/attacks/articles/iotw-ransomware-attack-closes-colonial-pipeline
+ 
+U.S. critical infrastructure has become a popular cyberwarfare target. The weak 
+underbelly has been aging tech and industrial control systems (ICSs) which may 
+lack adequate physical and cyber security... 
+

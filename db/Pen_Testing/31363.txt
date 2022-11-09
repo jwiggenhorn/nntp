@@ -1,0 +1,74 @@
+Feed: KitPloit - PenTest Tools!
+Title: Nettacker - Automated Penetration Testing Framework
+Author: Unknown
+Date: Mon, 06 Sep 2021 06:30:00 -0500
+Message-ID: <fg6Zdp@kitploit.com>
+Link: http://feedproxy.google.com/~r/PentestTools/~3/1k-7aSHxgOM/nettacker-automated-penetration-testing.html
+ 
+[image 1 (link #2)][1]
+ 
+ 
+OWASP Nettacker project is created to automate information gathering, 
+vulnerability scanning[3] and eventually generating a report for networks, 
+including services, bugs, vulnerabilities, misconfigurations, and other 
+information. This software will utilize TCP SYN, ACK, ICMP, and many other 
+protocols in order to detect and bypass Firewall/IDS/IPS devices. By leveraging 
+a unique method in OWASP Nettacker for discovering protected services and 
+devices such as SCADA. It would make a competitive edge compared to other 
+scanner making it one of the bests.
+ 
+  * OWASP Page: https://owasp.org/www-project-nettacker/[4]
+  * Wiki: https://github.com/OWASP/Nettacker/wiki[5]
+  * Installation: https://github.com/OWASP/Nettacker/wiki/Installation[6]
+  * Usage: https://github.com/OWASP/Nettacker/wiki/Usage[7]
+  * GitHub: https://github.com/OWASP/Nettacker[8]
+  * Slack: #project-nettacker on https://owasp.slack.com[9]
+  * Mailing List: https://groups.google.com/forum/#!forum/owasp-nettacker[10]
+  * Docker Image: https://hub.docker.com/r/alirazmjoo/owaspnettacker/[11]
+  * How to use the Dockerfile: 
+  https://github.com/OWASP/Nettacker/wiki/Installation#docker[12]
+  * OpenHub: https://www.openhub.net/p/OWASP-Nettacker[13]
+  * Donate: https://owasp.org/donate/?reponame=www-project-nettacker&title=OWASP
+  +Nettacker[14]
+  * *** IoT Scanner***
+  * Python Multi Thread & Multi Process Network Information Gathering[15] 
+  Vulnerability[16] Scanner
+  * Service and Device Detection ( SCADA, Restricted Areas, Routers, HTTP 
+  Servers, Logins and Authentications, None-Indexed HTTP, Paradox System, 
+  Cameras, Firewalls, UTM, WebMails, VPN, RDP, SSH, FTP, TELNET Services, Proxy 
+  Servers and Many Devices like Juniper, Cisco, Switches and many more… )
+  * Asset Discovery & Network Service Analysis
+  * Services Brute Force[17] Testing
+  * Services Vulnerability Testing
+  * HTTP/HTTPS Crawling, Fuzzing, Information Gathering and …
+  * HTML, JSON, CSV and Text Outputs
+  * API & WebUI
+  * This project is at the moment in research and development phase
+  * Thanks to Google Summer of Code Initiative and all the students who 
+  contributed to this project during their summer breaks
+ 
+ 
+ 
+Download Nettacker[8]
+[image 2 (link #18)]
+ 
+Links: 
+[1]: https://1.bp.blogspot.com/-XIRoazXlyz4/YSRppBladEI/AAAAAAAAtyU/wbXvAAN7lpYrTnb8Mtsjyk_-JKIwf0kowCNcBGAsYHQ/s960/Nettacker_7.gif (link)
+[2]: https://1.bp.blogspot.com/-XIRoazXlyz4/YSRppBladEI/AAAAAAAAtyU/wbXvAAN7lpYrTnb8Mtsjyk_-JKIwf0kowCNcBGAsYHQ/w640-h320/Nettacker_7.gif (image)
+[3]: https://www.kitploit.com/search/label/Vulnerability%20Scanning (link)
+[4]: https://owasp.org/www-project-nettacker/ (link)
+[5]: https://github.com/OWASP/Nettacker/wiki (link)
+[6]: https://github.com/OWASP/Nettacker/wiki/Installation (link)
+[7]: https://github.com/OWASP/Nettacker/wiki/Usage (link)
+[8]: https://github.com/OWASP/Nettacker (link)
+[9]: https://owasp.slack.com/ (link)
+[10]: https://groups.google.com/forum/#!forum/owasp-nettacker (link)
+[11]: https://hub.docker.com/r/alirazmjoo/owaspnettacker/ (link)
+[12]: https://github.com/OWASP/Nettacker/wiki/Installation#docker (link)
+[13]: https://www.openhub.net/p/OWASP-Nettacker (link)
+[14]: https://owasp.org/donate/?reponame=www-project-nettacker&title=OWASP+Nettacker (link)
+[15]: https://www.kitploit.com/search/label/Information%20Gathering (link)
+[16]: https://www.kitploit.com/search/label/Vulnerability (link)
+[17]: https://www.kitploit.com/search/label/Brute%20Force (link)
+[18]: http://feeds.feedburner.com/~r/PentestTools/~4/1k-7aSHxgOM (image)
+

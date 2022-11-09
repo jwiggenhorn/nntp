@@ -1,0 +1,13 @@
+Feed: Dilbert Daily Strip
+Title: Comic for September 10, 2021
+Date: Sat, 11 Sep 2021 01:59:59 -0500
+Link: http://feedproxy.google.com/~r/DilbertDailyStrip/~3/kDTCYJalxhs/2021-09-10
+Message-ID: <7-6lBdozq@dilbert.com>
+ 
+Dilbert readers - Please visit Dilbert.com to read this feature. Due to changes 
+with our feeds, we are now making this RSS feed a link to Dilbert.com.[image 1 
+(link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/kDTCYJalxhs (image)
+

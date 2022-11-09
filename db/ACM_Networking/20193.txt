@@ -1,0 +1,8 @@
+Feed: Communications of the ACM: Communications / Networking
+Title: The Future Is Big Graphs
+Date: Tue, 31 Aug 2021 23:00:00 -0500
+Link: http://cacm.acm.org/magazines/2021/9/255040-the-future-is-big-graphs
+Message-ID: <BGqTrL1ASV@acm.org>
+ 
+Ensuring the success of big graph processing for the next decade and beyond.
+

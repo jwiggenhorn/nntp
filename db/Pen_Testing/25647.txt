@@ -1,0 +1,159 @@
+Feed: KitPloit - PenTest Tools!
+Title: Graphw00F - GraphQL fingerprinting tool for GQL endpoints
+Author: Unknown
+Date: Thu, 09 Sep 2021 06:30:00 -0500
+Message-ID: <jc79SG@kitploit.com>
+Link: http://feedproxy.google.com/~r/PentestTools/~3/5Y8vQjCH630/graphw00f-graphql-fingerprinting-tool.html
+ 
+[image 1 (link #2)][1]
+----------------------
+ 
+Credits to Nick Aleks [3]for the logo!
+ 
+ 
+How does it work?
+ 
+graphw00f (inspired by wafw00f[4]) is the GraphQL fingerprinting[5] tool for GQL
+endpoints, it sends a mix of benign and malformed[6] queries to determine the 
+GraphQL engine running behind the scenes. graphw00f will provide insights into 
+what security defences each technology provides out of the box, and whether they
+are on or off by default.
+ 
+Specially crafted queries cause different GraphQL server implementations to 
+respond uniquely to queries, mutations and subscriptions, this makes it trivial 
+to fingerprint[7] the backend engine and distinguish between the various GraphQL
+implementations. (CWE: CWE-200[8])
+ 
+ 
+Detections
+ 
+graphw00f currently attempts to discover the following GraphQL engines:
+ 
+  * Graphene - Python
+  * Ariadne - Python
+  * Apollo - TypeScript
+  * graphql-go - Go
+  * gqlgen - Go
+  * WPGraphQL - PHP
+  * GraphQL API for Wordpress - PHP
+  * Ruby - GraphQL
+  * graphql-php - PHP
+  * Hasura - Haskell
+  * HyperGraphQL - Java
+  * graphql-java - Java
+  * Juniper - Rust
+  * Sangria - Scala
+  * Flutter - Dart
+  * Diana.jl - Julia
+  * Strawberry - Python
+  * Tartiflette - Python
+ 
+ 
+GraphQL Technologies Defence Matrices
+ 
+Each fingerprinted technology (e.g. Graphene, Ariadne, ...) has an associated 
+document (example for graphene[9]) which covers the security defence mechanisms 
+the specific technology supports to give a better idea how the implementation 
+may be attacked.
+ 
+| Field Suggestions | Query Depth Limit | Query Cost Analysis | Automatic 
+Persisted Queries | Introspection | Debug Mode | Batch Requests |
+|-------------------|-------------------|---------------------|-----------------
+------------|--------------------|------------|-----------------|
+| On by Default | No Support | No Support | No Support | Enabled by Default | 
+N/A | Off by Default |
+ 
+ 
+Prerequisites
+ 
+  * python3
+  * requests
+ 
+ 
+Installation
+ 
+Clone Repository
+ 
+git clone git@github.com:dolevf/graphw00f.git
+ 
+Run graphw00f
+ 
+python3 main.py -h
+ 
+Usage: main.py -h
+ 
+Options:
+  -h, --help show this help message and exit
+  -r, --noredirect Do not follow redirections given by 3xx responses
+  -t URL, --target=URL target url with the path
+  -o OUTPUT_FILE, --output-file=OUTPUT_FILE
+                        Output results to a file (CSV)
+  -l, --list List all GraphQL technologies graphw00f is able to
+                        detect
+  -v, --version Print out the current version and exit.
+ 
+ 
+Example
+ 
+python3 main.py -t http://127.0.0.1:5000/graphql
+ 
+                +-------------------+ 
+                | graphw00f | 
+                +-------------------+ 
+                  *** *** 
+                ** *** 
+              ** ** 
+    +--------------+ +--------------+ 
+    | Node X | | Node Y | 
+    +--------------+ +--------------+ 
+                  *** *** 
+                     ** ** 
+                       ** ** 
+                    +------------+ 
+                    | Node Z | 
+                    +------------+ 
+ 
+                graphw00f - v1.0.0
+             The fingerprinting tool for GraphQL
+ 
+[*] Checking if GraphQL is available at 
+https://demo.hypergraphql.org:8484/graphql...
+[*] Found GraphQL...
+[*] Attempting to fingerprint...
+[*] Discovered GraphQL Engine: (HyperGraphQL)
+[!] Attack Surface Matrix: 
+https://github.com/dolevf/graphw00f/blob/main/docs/hypergraphql.md
+[!] Technologies: Java
+[!] Homepage: https://www.hypergraphql.org
+[*] Completed.
+ 
+ 
+Support and Issues
+ 
+Any issues with graphw00f such as false positives, inaccurate detections, bugs, 
+etc. please create a GitHub issue with environment details.
+ 
+Resources
+ 
+Want to learn more about GraphQL? head over to my other project and hack GraphQL
+away: Damn [10]Vulnerable[11] GraphQL Application
+ 
+ 
+Download Graphw00F[12]
+[image 2 (link #13)]
+ 
+Links: 
+[1]: http://4.bp.blogspot.com/-mgJcIbjF0LM/YTVRrKYUQkI/AAAAAAAAubs/eINIxgmCJcs1v799iIzhKIoGGxS7L-i-wCK4BGAYYCw/s1600/graphw00f_1_graphw00f-759654.png (link)
+[2]: http://4.bp.blogspot.com/-mgJcIbjF0LM/YTVRrKYUQkI/AAAAAAAAubs/eINIxgmCJcs1v799iIzhKIoGGxS7L-i-wCK4BGAYYCw/s320/graphw00f_1_graphw00f-759654.png (image)
+[3]: https://github.com/nicholasaleks (link)
+[4]: https://github.com/EnableSecurity/wafw00f (link)
+[5]: https://www.kitploit.com/search/label/Fingerprinting (link)
+[6]: https://www.kitploit.com/search/label/Malformed (link)
+[7]: https://www.kitploit.com/search/label/Fingerprint (link)
+[8]: https://github.com/dolevf/graphw00f#CWE-Reference (link)
+[9]: https://github.com/dolevf/graphw00f/blob/main/docs/graphene.md (link)
+[10]: https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application/ (link)
+[11]: https://www.kitploit.com/search/label/Vulnerable (link)
+[12]: https://github.com/dolevf/graphw00f (link)
+[13]: http://feeds.feedburner.com/~r/PentestTools/~4/5Y8vQjCH630 (image)
+

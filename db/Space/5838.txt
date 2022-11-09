@@ -1,0 +1,169 @@
+Feed:  Universe Today
+Title: Titan’s Atmosphere Recreated in an Earth Laboratory
+Message-ID: <7HPY@nasa.org>
+Author: Matt Williams
+Date: Wed, 24 Feb 2021 17:29:09 -0600
+Link: https://www.universetoday.com/150181/titans-atmosphere-recreated-in-an-earth-laboratory/
+ 
+Beyond Earth, the general scientific consensus is that the best place to search 
+for evidence of extraterrestrial life is Mars. However, it is by no means the 
+only place. Aside from the many extrasolar planets that have been designated as 
+“potentially-habitable,” there are plenty of other candidates right here in our 
+Solar System. These include the many icy satellites that are thought to have 
+interior oceans that could harbor life.
+ 
+Among them is Titan, Saturn’s largest moon that has all kinds of organic 
+chemistry taking place between its atmosphere and surface. For some time, 
+scientists have suspected that the study of Titan’s atmosphere could yield vital
+clues to the early stages of the evolution of life on Earth. Thanks to new 
+research led by tech-giant IBM[1], a team of researchers has managed to recreate
+atmospheric conditions on Titan in a laboratory.
+ 
+Their research is described in a paper titled “Imaging Titan’s Organic Haze at 
+Atomic Scale[2],” which recently appeared in the Feb. 12^th issue of The 
+Astrophysical Journal Letters. The research team was led by Dr. Fabian Schulz 
+and Dr. Julien Maillard and included many colleagues from IBM 
+Research-Zurich[3], the University of Paris-Saclay[4], the University of Rouen 
+at Mont-Saint-Aignan[5], and Fritz Haber Institute of the Max Planck Society[6].
+[image 1 (link #7)]This artist’s concept of a lake at the north pole of Saturn’s
+moon Titan illustrates raised rims and rampartlike features such as those seen 
+by NASA’s Cassini spacecraft around the moon’s Winnipeg Lacus. Credit: 
+NASA/JPL-Caltech 
+ 
+Much of what we know about Titan today is owed to the Cassini spacecraft[8], 
+which orbited Saturn from 2004 to 2017 and finished its mission by diving into 
+Saturn’s atmosphere. During this time, Cassini conducted many direct 
+measurements of Titan’s atmosphere, revealing a surprisingly Earth-like 
+environment. Basically, Titan is the only other body in the Solar System that 
+has a dense nitrogen atmosphere and organic processes taking place.
+ 
+What is particularly interesting is the fact that scientists believe that 
+roughly 2.8 billion years ago, Earth’s atmosphere may have been similar. This 
+coincides with the Mesoarchean Era[9], a period where photosynthetic 
+cyanobacteria created the first reef systems and slowly converted Earth’s 
+atmospheric carbon dioxide to oxygen gas (eventually leading to its current 
+balance of nitrogen and oxygen).
+ 
+While the surface of Titan is believed to hold clues that could improve our 
+understanding of how life emerged in our Solar System, getting a clear look at 
+that surface has been a problem. The reason for this has to do with Titan’s 
+atmosphere, which is permeated by a dense photochemical haze that scatters 
+light. As Leo Gross[10] and Nathalie Carrasco[11] (co-authors on the study) 
+explained in recent article posted to the IBM Research Blog[1]:
+ 
+  “Titan’s haze consists of nanoparticles made of a wide variety of large and 
+  complex organic molecules containing carbon, hydrogen and nitrogen. These 
+  molecules form in a cascade of chemical reactions when (ultraviolet and 
+  cosmic) radiation hits the mix of methane, nitrogen and other gases in 
+  atmospheres like Titan’s.”
+ 
+[image 2 (link #12)]The experiment, PAMPRE, where the atmosphere of Titan is 
+simulated. Credit: Nathalie Carrasco 
+ 
+As a result, there is still much that scientists don’t know about the processes 
+that drive Titan’s atmosphere, which includes the exact chemical structure of 
+the large molecules that make up this haze. For decades, astrochemists have been
+conducting laboratory experiments with similar organic molecules known as 
+tholins – a term derived from the Greek word for “muddy” (or “hazy”).
+ 
+Tholins refer to a wide variety of organic carbon-containing compounds that form
+when exposed to solar UV or cosmic rays. These molecules are common in the outer
+Solar System and are typically found in icy bodies, where the surface layer 
+contains methane ice that is exposed to radiation. Their presence is indicated 
+by surface that have a ruddy appearance, or like they have sepia-colored stains.
+ 
+For the sake of their study, the team led by Schulz and Maillard conducted a 
+experiment where they observed tholins in various stages of formation in a 
+laboratory environment. As Gross and Carrasco explained[1]:
+ 
+  “We flooded a stainless-steel vessel with a mixture of methane and nitrogen 
+  and then triggered chemical reactions through an electric discharge, thereby 
+  mimicking the conditions in Titan’s atmosphere. We then analyzed over 100 
+  resulting molecules composing Titan’s tholins in our lab at Zurich, obtaining 
+  atomic resolution images of around a dozen of them with our home-built 
+  low-temperature atomic force microscope.”
+ 
+[image 3 (link #13)]NASA’s Cassini spacecraft looks toward the night side of 
+Saturn’s largest moon and sees sunlight scattering through the periphery of 
+Titan’s atmosphere and forming a ring of color. Credit: NASA/JPL-Caltech/Space 
+Science Institute 
+ 
+By resolving molecules of different sizes, the team was provided with glimpses 
+of the different stages through which these haze molecules grow, as well as what
+their chemical makeup looks like. In essence, they observed a key component in 
+Titan’s atmosphere as it formed and accumulated to create Titan’s famous hazy 
+effect. Said[1] Conor A. Nixon[14], a researcher with NASA’s Goddard Space 
+Flight Center (who was not affiliated with the study):
+ 
+  “This paper shows ground-breaking new work in the use of atomic-scale 
+  microscopy to investigate the structures of complex, multi-ringed organic 
+  molecules. Typical analysis of laboratory-generated compounds using techniques
+  such as mass spectroscopy reveals the relative proportions of the various 
+  elements, but not the chemical bonding and structure. 
+ 
+  “For this first time here we see the molecular architecture of synthetic 
+  compounds similar to those thought to cause the orange haze of Titan’s 
+  atmosphere. This application now provides an exciting new tool for sample 
+  analysis of astrobiological materials, including meteorites and returned 
+  samples from planetary bodies.”
+ 
+What’s more, their results may also shed light on Titan’s mysterious 
+methane-based hydrological cycle. On Earth, this cycle consists of water 
+transitioning between a gaseous state (water vapor) and a liquid state (rain and
+surface water). On Titan, the same cycle takes place with methane, which 
+transitions from atmospheric methane gas and falls as methane rain to form 
+Titan’s famous hydrocarbon lakes.
+[image 4 (link #15)]A proposed eight-bladed drone (aka. “dragonfly”) could be 
+ideally suited for exploring Saturn’s moon Titan in the coming decades. Credit: 
+APL/Michael Carroll 
+ 
+In this case, the research team’s results could reveal the role that the 
+chemical haze plays in Titan’s methane cycle, including whether or not these 
+nanoparticles can float on its methane lakes. Furthermore, these findings could 
+reveal whether or not similar atmospheric aerosols helped life emerge on Earth 
+billions of years ago. 
+ 
+“The molecular structures we have now imaged are known to be good absorbers of 
+ultraviolet light,” described[1] Gross and Carrasco. “That, in turn, means that 
+the haze may have acted as a shield protecting DNA molecules on the early 
+Earth’s surface from damaging radiation.”
+ 
+If this theory is correct, the team’s findings would not only help scientists to
+understand the conditions under which life emerged here on Earth, they could 
+also point towards the possible existence of life on Titan. The mysterious 
+nature of this satellite is something scientists first became aware of in the 
+early 1980s, when the Voyager 1 and 2[16] space probes both flew through the 
+Saturn system. Since then, scientists have pieced together 
+ 
+By the 2030s, NASA plans to send a robotic rotorcraft called Dragonfly[17] to 
+Titan to explore its surface and atmosphere and search for possible signs of 
+life. As always, the theoretical work and laboratory experiments performed in 
+the meantime will allow scientists to narrow the focus and increase the odds 
+that the mission (once it arrives) will find what its looking for.
+ 
+Further Reading: IBM[1], The Astrophysical Journal Letters[2]
+ 
+The post Titan’s Atmosphere Recreated in an Earth Laboratory[18] appeared first 
+on Universe Today[19].
+ 
+Links: 
+[1]: https://www.ibm.com/blogs/research/2021/02/titan-haze/ (link)
+[2]: https://iopscience.iop.org/article/10.3847/2041-8213/abd93e (link)
+[3]: https://www.zurich.ibm.com/ (link)
+[4]: https://www.universite-paris-saclay.fr/en (link)
+[5]: https://www.univ-rouen.fr/ (link)
+[6]: https://www.fhi.mpg.de/ (link)
+[7]: https://www.universetoday.com/wp-content/uploads/2019/09/PIA23172-1024x576.jpg (image)
+[8]: https://solarsystem.nasa.gov/missions/cassini/mission/spacecraft/cassini-orbiter/ (link)
+[9]: https://www.geologypage.com/2014/01/mesoarchean-era.html (link)
+[10]: https://www.ibm.com/blogs/research/author/leo-gross/ (link)
+[11]: https://ens-paris-saclay.fr/lecole/decouvrir-lecole/instances/conseil-scientifique/nathalie-carrasco (link)
+[12]: https://www.universetoday.com/wp-content/uploads/2021/02/PAMPRE.jpg (image)
+[13]: https://www.universetoday.com/wp-content/uploads/2014/04/titan-haze.jpg (image)
+[14]: https://science.gsfc.nasa.gov/sed/bio/conor.a.nixon (link)
+[15]: https://www.universetoday.com/wp-content/uploads/2017/04/dragonfly-1024x697.jpg (image)
+[16]: https://voyager.jpl.nasa.gov/ (link)
+[17]: https://dragonfly.jhuapl.edu/ (link)
+[18]: https://www.universetoday.com/150181/titans-atmosphere-recreated-in-an-earth-laboratory/ (link)
+[19]: https://www.universetoday.com/ (link)
+

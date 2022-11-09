@@ -1,0 +1,18 @@
+Feed: The Hacker News
+Title: Microsoft Warns of Cross-Account Takeover Bug in Azure Container 
+Instances
+Author: Ravie Lakshmanan
+Date: Fri, 10 Sep 2021 00:07:33 -0500
+Message-ID: <6ptt0H1K@thn.com>
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/TbU9jkAaJlY/microsoft-warns-of-cross-account.html
+ 
+Microsoft on Wednesday said it remediated a vulnerability in its Azure Container
+Instances (ACI) services that could have been exploited by a malicious actor "to
+access other customers' information" in what the researcher described as the 
+"first cross-account container takeover in the public cloud." An attacker 
+exploiting the weakness could execute malicious commands on other users' 
+containers,[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/TbU9jkAaJlY (image)
+

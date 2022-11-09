@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Security
+Title: Popular Smart Home Security System Can Be Remotely Disarmed
+Date: Wed, 01 Sep 2021 11:00:08 -0500
+Link: http://cacm.acm.org/news/255249-popular-smart-home-security-system-can-be-remotely-disarmed
+Message-ID: <WlTbasmC32@acm.org>
+ 
+Researchers at cybersecurity company Rapid7 found vulnerabilities that can be 
+used to remotely disarm the Fortress S03 smart home security system.
+

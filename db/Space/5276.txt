@@ -1,0 +1,107 @@
+Feed:  Universe Today
+Title: NASA has too Many Spacecraft to Communicate With. Time to Build More 
+Dishes
+Message-ID: <Qwkj@nasa.org>
+Author: Andy Tomaswick
+Date: Wed, 08 Sep 2021 14:09:42 -0500
+Link: https://www.universetoday.com/152478/nasa-has-too-many-spacecraft-to-communicate-with-time-to-build-more-dishes/
+ 
+NASA is a sprawling organization that has to talk to everything from politicians
+in Washington DC to space probes that have left the solar system[1]. Discussions
+with the first might be as simple as a written letter for informal conversation,
+while the second requires a high-power network of ground-based antennas. Known 
+as the Deep Space Network (DSN[2]) this series of antennas spread over three 
+continents is the backbone of NASA’s communications with its various space 
+probes[3]. Now the DSN is in the process of implementing a well-deserved 
+upgrade.
+ 
+Part of the reason for that upgrade is the sheer number of spacecraft in deep 
+space NASA has to communicate with. Everything from Voyager[4] to the Parker 
+Solar Probe[5] requires time on the antenna to relay data and receive 
+instructions. But with new missions launching at an increasing pace, the network
+must be beefed up in order to accommodate all the new communication links.
+ 
+[iframe 1 (link #6)]
+Video on NASA’s 70-m DSS-14 antenna.
+Credit – NASA / JPL-Caltech 
+ 
+Currently, DSN supports 39 missions, but NASA has 30 additional missions in 
+development, and not all of the existing missions will be phased out in the near
+future. To ensure consistent communication no matter where the Earth is on its 
+journey around the sun, the antennas supporting those 30 missions are evenly 
+spread around the globe – in Madrid, Spain, Canberra, Australia, and near 
+Barstow California. When not being used for communication directly, the antennas
+can serve as data collection platforms for radio science missions[7] as well.
+ 
+One major component of the upgrade needed to support all this work is the 
+addition of 2 new antennas. The first, a 34-m wide dish named DSS-56 was 
+commissioned in Madrid in January of this year. Also completed this year was an 
+upgrade to DSS-43, a 70-m antenna located in Australia that is the only antenna 
+in the Southern Hemisphere that is capable of sending messages to Voyager, which
+is currently outside of our solar system. 
+ 
+[iframe 2 (link #8)]
+There’s also a game based on DSN, if you’re interested in understanding more of 
+how it works.
+Credit – NASA Space Place YouTube Channel 
+ 
+DSS-43 won’t be the last 70-m antenna improvement either – its equivalents in 
+Madrid and California are slated to receive upgrades soon as well. Increasing 
+the power of those antennas isn’t their only purpose. With so much additional 
+data being sent between handlers and spacecraft, increasing data transfer rates 
+is another focal point of the network upgrades. Eliminating frequency bands that
+specific telescopes are limited to will help the network utilize all of its 
+resources to support all of its missions. 
+ 
+Not only is the DSN[9] getting technological upgrades, but it’s also trying a 
+new management system that will better utilize the three sites spread throughout
+the world. Previously, on-site managers had managed the antennas at their site 
+locally. Now, there is a global hand-off protocol that managers call “Follow the
+Sun”, which allows personnel at each complex to run their entire network during 
+their own “on” shift. This has created cost savings as well as increased 
+coordination between the sites as it requires regular knowledge transfer about 
+local conditions and satellite quirks. 
+[image 1: Graphics posters showing the three 70-m antennas that are part of the 
+DSN. (link #10)]Graphics posters showing the three 70-m antennas that are part 
+of the DSN.
+Credit – NASA / JPL-Caltech 
+ 
+A lot of those cost savings from the new management architecture have gone into 
+technological upgrades for the antennas themselves. With the pace of 
+technological advancement in the communications field, there is plenty of room 
+for improvement, but NASA has already shown that maintaining and even upgrading 
+their internal communication network is one of the priorities.
+ 
+Learn More:
+NASA – NASA’s Deep Space Network Looks to the Future[11]
+SpaceNews – Increasing demands putting pressure on Deep Space Network[12]
+S&T – NASA is upgrading its Deep Space Network to keep up with the demands of 
+modern interplanetary communications.[13]
+SciTechDaily – DSN Upgrades: NASA’s Deep Space Network Looks to the Future[14]
+ 
+Lead Image:
+70-m dish of the Goldstone Deep Space Communications Complex, located near 
+Barstow, CA.
+Credit – NASA / JPL – Caltech
+ 
+The post NASA has too Many Spacecraft to Communicate With. Time to Build More 
+Dishes[15] appeared first on Universe Today[16].
+ 
+Links: 
+[1]: https://www.universetoday.com/147873/whats-the-best-way-to-communicate-with-an-interstellar-probe-when-its-light-years-away-from-earth/ (link)
+[2]: https://en.wikipedia.org/wiki/NASA_Deep_Space_Network (link)
+[3]: https://www.universetoday.com/114793/who-needs-a-deep-space-network-two-martian-spacecraft-communicate-via-twitter/ (link)
+[4]: https://en.wikipedia.org/wiki/Voyager_2 (link)
+[5]: https://en.wikipedia.org/wiki/Parker_Solar_Probe (link)
+[6]: https://www.youtube.com/embed/bzkWEWLrq8I?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent (iframe)
+[7]: https://www.universetoday.com/141652/astronomers-are-using-nasas-deep-space-network-to-hunt-for-magnetars/ (link)
+[8]: https://www.youtube.com/embed/8SocsH5hoHk?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent (iframe)
+[9]: https://eyes.nasa.gov/dsn/dsn.html (link)
+[10]: https://www.universetoday.com/wp-content/uploads/2021/09/dsn-trio-2.width-1320-1024x514.jpg (image)
+[11]: https://www.jpl.nasa.gov/news/nasas-deep-space-network-looks-to-the-future (link)
+[12]: https://spacenews.com/increasing-demands-putting-pressure-on-deep-space-network/ (link)
+[13]: https://skyandtelescope.org/astronomy-news/nasas-deep-space-network-upgraded/ (link)
+[14]: https://scitechdaily.com/dsn-upgrades-nasas-deep-space-network-looks-to-the-future/ (link)
+[15]: https://www.universetoday.com/152478/nasa-has-too-many-spacecraft-to-communicate-with-time-to-build-more-dishes/ (link)
+[16]: https://www.universetoday.com/ (link)
+

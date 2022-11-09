@@ -1,0 +1,11 @@
+Feed: CS Hub: Attacks
+Title: 2021 Top Breaches: Part II
+Author: Seth Adler 
+Date: Thu, 22 Jul 2021 19:00:03 -0500
+Message-ID: <RX2ZXSF6mn7@cshub.com>
+Link: https://www.cshub.com/attacks/articles/2021-top-breaches-part-ii
+ 
+Q2, 2021 saw the Colonial Pipeline breach, the JBS breach, fallout from the 
+Microsoft Exhchange breach, a massaive Facebook data leak, another large health 
+system breach and more municipal breaches. 
+

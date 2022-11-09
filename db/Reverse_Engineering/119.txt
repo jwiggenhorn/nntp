@@ -1,0 +1,16 @@
+Feed: Reverse Engineering
+Title: CVE-2021-2429: A Heap-based Buffer Overflow Bug in the MySQL InnoDB 
+Message-ID: <7oXWMz@reddit.com>
+memcached Plugin
+Author: /u/RedmondSecGnome
+Date: Thu, 02 Sep 2021 11:07:20 -0500
+Link: https://www.reddit.com/r/ReverseEngineering/comments/pgkwl9/cve20212429_a_heapbased_buffer_overflow_bug_in/
+ 
+submitted by /u/RedmondSecGnome [1] 
+[link][2] [comments][3]
+ 
+Links: 
+[1]: https://www.reddit.com/user/RedmondSecGnome (link)
+[2]: https://www.zerodayinitiative.com/blog/2021/9/2/cve-2021-2429-a-heap-based-buffer-overflow-bug-in-the-mysql-innodb-memcached-plugin (link)
+[3]: https://www.reddit.com/r/ReverseEngineering/comments/pgkwl9/cve20212429_a_heapbased_buffer_overflow_bug_in/ (link)
+

@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: Experts Uncover Mobile Spyware Attacks Targeting Kurdish Ethnic Group
+Author: Ravie Lakshmanan
+Date: Wed, 08 Sep 2021 07:13:39 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/kEn8PHkmMg0/experts-uncover-mobile-spyware-attacks.html
+Message-ID: <d0TPxK82@thn.com>
+ 
+Cybersecurity researchers on Tuesday released new findings that reveal a 
+year-long mobile espionage campaign against the Kurdish ethnic group to deploy 
+two Android backdoors that masquerade as legitimate apps. Active since at least 
+March 2020, the attacks leveraged as many as six dedicated Facebook profiles 
+that claimed to offer tech and pro-Kurd content — two aimed at Android users 
+while the[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/kEn8PHkmMg0 (image)
+

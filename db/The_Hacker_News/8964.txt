@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: Hackers Leak VPN Account Passwords From 87,000 Fortinet FortiGate Devices
+Author: Ravie Lakshmanan
+Date: Thu, 09 Sep 2021 02:33:52 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/JtPdakV_g-c/hackers-leak-vpn-account-passwords-from.html
+Message-ID: <DzTYVcxd@thn.com>
+ 
+Network security solutions provider Fortinet confirmed that a malicious actor 
+had unauthorizedly disclosed VPN login names and passwords associated with 
+87,000 FortiGate SSL-VPN devices. "These credentials were obtained from systems 
+that remained unpatched against CVE-2018-13379 at the time of the actor's scan. 
+While they may have since been patched, if the passwords were not reset, they 
+remain[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/JtPdakV_g-c (image)
+

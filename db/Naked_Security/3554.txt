@@ -1,0 +1,10 @@
+Feed: Naked Security
+Title: Copyright scammers turn to phone numbers instead of web links
+Author: Paul Ducklin
+Date: Mon, 16 Aug 2021 13:18:15 -0500
+Message-ID: <w5w6I@sophos.com>
+Link: https://nakedsecurity.sophos.com/2021/08/16/copyright-scammers-turn-to-phone-numbers-instead-of-web-links/
+ 
+Forewarned is forearmed. Here's our advice on dealing with "copyright 
+infringement" scammers.
+

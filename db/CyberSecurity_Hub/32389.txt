@@ -1,0 +1,10 @@
+Feed: CS Hub: Attacks
+Title: IOTW: Ransomware thieves publish major airlines’ passenger information
+Author: Sarah Williams 
+Date: Fri, 03 Sep 2021 09:00:47 -0500
+Message-ID: <WMgq4K0mTYE@cshub.com>
+Link: https://www.cshub.com/attacks/articles/iotw-ransomware-thieves-publish-major-airlines-passenger-information
+ 
+Airline’s reputation severely hit due to cyber-attack as aviation industry 
+begins to reopen following coronavirus pandemic closures 
+

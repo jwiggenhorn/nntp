@@ -1,0 +1,105 @@
+Feed:  Universe Today
+Title: This Is What Rolling Blackouts Look Like From Space
+Message-ID: <kwHs@nasa.org>
+Author: Ralph Crewe
+Date: Sun, 28 Feb 2021 19:17:23 -0600
+Link: https://www.universetoday.com/150322/this-is-what-rolling-blackouts-look-like-from-space/
+ 
+Extreme winter weather hit Texas hard this February. An air mass from the arctic
+extended deep into the United States from Canada, with disastrous results for 
+the ordinarily warm state. Along with snow and unusually low temperatures, the 
+state’s capacity for power generation was significantly reduced by 
+weather-related equipment failures. Images[1] hosted by NASA’s Earth 
+Observatory[2] show the effect of controlled, rolling blackouts across the 
+Greater Houston Area. 
+ 
+One image, taken on February 7th, shows Houston before the arctic weather 
+system, and another picture taken on the 16th shows large swaths of the city in 
+darkness. Earth Observatory has conveniently layered the two images with a 
+vertical slider allowing users to slide back and forth, highlighting (or 
+low-lighting as it were) the blackouts’ impact.
+[image 1 (link #3)]The left image shows Houston on the 7th, before the arctic 
+weather. The right shows the effects of rolling blackouts on the 16th. Check out
+NASA’s Earth Observatory’s interactive comparison in higher resolution here[1]. 
+Credit NASA Earth Observatory 
+ 
+Each of these images is composed of nighttime lights data overlaid on Landsat[4]
+imagery to allow the city structure to be recognizable under the lights. The 
+nighttime lights data is from the Visible Infrared Imaging Radiometer Suite[5] 
+or VIIRS. This instrumentation suite rides aboard the Suomi National 
+Polar-Orbiting Partnership[6] (Suomi NPP) spacecraft. 
+ 
+VIIRS data is also utilized in NASA’s Black Marble[7], a program studying the 
+Earth at night. Nighttime lights data is collected and processed by Black Marble
+in a variety of situations and for various events, such as the 2019 Hurricane 
+Dorian’s devastating impact on the Bahamas.[8]
+[image 2 (link #9)]2016 Black Marble Image of Earth at Night Credit: NASA/Black 
+Marble 
+ 
+Along with the February 2021 images of rolling blackouts in Texas, the Earth 
+Observatory published a global temperature map focused on North America for 
+February 15. In this dramatic image, the extent of the extreme cold of the 
+arctic air mass can be seen carving through the heart of the continent. Dallas 
+recorded a chilling temperature of a mere -16°C (4°F), which is lower than most 
+of the high temperatures recorded at Gale Crater on Mars[10] by the Curiosity 
+Rover!
+[image 3 (link #11)]Data from the Goddard Earth Observing System (GEOS) model 
+was used to create this map of North America showing extreme arctic weather on 
+February 15, 2021. Credit NASA/GEOS 
+ 
+For those fascinated by satellite imagery of the earth, it is worth digging 
+deeper into what Earth Observatory is up to. For instance, users can explore 
+this extraordinary global map[12]. It features spectacular images and the 
+associated stories for points around the world. Thousands of interactive points 
+allow you to explore unbelievably detailed satellite images for hours and hours.
+If you have a habit of falling down Wikipedia rabbit holes, this will surely 
+scratch a similar itch. 
+[image 4 (link #13)]The Suomi NPP satellite which houses multiple instruments 
+for imaging the Earth, including VIIRS. Credit: NASA 
+ 
+The side-by-side imagery of Houston’s power outages highlights the importance of
+scientific instrumentation in orbit pointed back home. When some people think 
+about the space program, interplanetary missions like Mars Perseverance or 
+cosmic observers like the Hubble Space Telescope often get the vast bulk of 
+their attention. While Perseverance and Hubble are undoubtedly remarkable and 
+valuable programs, we often overlook the significance of Earth-focused missions.
+When was the last time you saw a big news headline about the Suomi National 
+Polar-Orbiting Partnership, let alone VIIRS? Programs like this are deserving of
+support and praise. There’s something compelling about seeing such breathtaking 
+images of our world, and the value of the scientific understanding that comes 
+along with it is immeasurable. 
+ 
+Follow Ralph Crewe on Twitter @RalphCrewe[14]
+ 
+Watch Ralph Crewe explore unusual and fascinating topics on YouTube[15]
+ 
+MORE
+ 
+Earth Observatory[2]
+ 
+Suomi NPP[6]
+ 
+VIIRS[5]
+ 
+The post This Is What Rolling Blackouts Look Like From Space[16] appeared first 
+on Universe Today[17].
+ 
+Links: 
+[1]: https://www.earthobservatory.nasa.gov/images/147941/extreme-winter-weather-causes-us-blackouts (link)
+[2]: https://www.earthobservatory.nasa.gov/ (link)
+[3]: https://www.universetoday.com/wp-content/uploads/2021/02/HOustonBoth-1024x432.jpg (image)
+[4]: https://landsat.gsfc.nasa.gov/ (link)
+[5]: https://ncc.nesdis.noaa.gov/VIIRS/ (link)
+[6]: https://www.nasa.gov/mission_pages/NPP/mission_overview/index.html (link)
+[7]: https://blackmarble.gsfc.nasa.gov/ (link)
+[8]: https://www.washingtonpost.com/weather/2019/09/13/dorians-wrath-satellite-imagery-shows-northwestern-bahamas-dark-after-disastrous-storm/ (link)
+[9]: https://www.universetoday.com/wp-content/uploads/2021/02/Black-Marb-1024x826.jpg (image)
+[10]: https://mars.nasa.gov/layout/embed/image/mslweather/ (link)
+[11]: https://www.universetoday.com/wp-content/uploads/2021/02/northamerica_geos5_2021046_lrg-939x1024.jpg (image)
+[12]: https://www.earthobservatory.nasa.gov/map#6/43.133/-81.914 (link)
+[13]: https://www.universetoday.com/wp-content/uploads/2021/02/Suomi_NPP_satellite-1024x576.jpg (image)
+[14]: https://twitter.com/RalphCrewe (link)
+[15]: https://www.youtube.com/isn'tthatsomething (link)
+[16]: https://www.universetoday.com/150322/this-is-what-rolling-blackouts-look-like-from-space/ (link)
+[17]: https://www.universetoday.com/ (link)
+

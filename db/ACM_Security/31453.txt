@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Security
+Title: Can We Handle the Truth about Cybersecurity?
+Date: Wed, 01 Sep 2021 14:06:30 -0500
+Link: http://cacm.acm.org/opinion/articles/255262-can-we-handle-the-truth-about-cybersecurity
+Message-ID: <ieCpJ42oRG@acm.org>
+ 
+Standardizing disclosure rules while ensuring transparency can strengthen our 
+total cybersecurity landscape
+

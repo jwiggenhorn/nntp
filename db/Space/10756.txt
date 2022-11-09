@@ -1,0 +1,74 @@
+Feed:  Universe Today
+Title: If Planet 9 is out There, Here's Where to Look
+Message-ID: <vvxT@nasa.org>
+Author: Brian Koberlein
+Date: Sat, 28 Aug 2021 09:35:13 -0500
+Link: https://www.universetoday.com/152351/if-planet-9-is-out-there-heres-where-to-look/
+ 
+There are eight known planets in the solar system (ever since Pluto was booted 
+from the club[1]), but for a while, there has been some evidence that there 
+might be one more. A hypothetical Planet 9 lurking on the outer edge of our 
+solar system. So far this world has eluded discovery, but a new study has pinned
+down where it should be.
+ 
+The evidence for Planet 9 comes from its gravitational pull on other bodies. If 
+the planet exists, its gravity will affect the orbits of other planets. So if 
+something seems to be tugging on a planet, just do a bit of math to find the 
+source. This is how Neptune was discovered, when John Couch Adams and Urbain Le 
+Verrier noticed independently that Uranus seemed to be tugged by an unseen 
+planet.
+ 
+In the case of Planet 9, we don’t have any gravitational effect on a planet. 
+What we do see is an odd clustering of small icy bodies in the outer solar 
+system known as Kuiper belt objects (KBOs). If there were no planet beyond the 
+Kuiper belt, you would expect the orbits of KBOs to be randomly oriented within 
+the orbital plane of the solar system. But instead, we see lots of KBO orbits 
+are clustered in the same orientation. It’s possible that this is just due to 
+random chance, but that isn’t likely.
+[image 1 (link #2)]The possible orbit of Planet Nine. Credit: CalTech/R. Hurt 
+(IPAC) 
+ 
+Back in 2016, the authors looked at the statistical distribution of KBOs and 
+concluded the clustering was caused by an undetected outer planet. Based on 
+their calculations, this world has a mass of 5 Earths and is about 10 times more
+distant from the Sun than Neptune. The paper even calculated a broad region of 
+the sky where the planet might be. But searches turned up nothing. This led some
+to conclude the planet doesn’t exist. Orbital oddness doesn’t prove a planet 
+exists. Just ask Planet Vulcan.[3] Others went so far as to argue Planet 9 does 
+exist, but we can’t see it because it’s a primordial black hole.[4]
+ 
+This new study reexamines the original work in light of some of the criticism it
+received. One big criticism is that outer solar system bodies are difficult to 
+find, so we look for them where it’s convenient. The clustering effect we see 
+could just be due to biased data. Taking observational bias into effect, the 
+authors find the clustering is still statistically unusual. There’s only a 0.4% 
+chance of it being a fluke. When they recalculated the likely orbit of Planet 9,
+they were able to better localize where to look.
+ 
+One interesting aspect of the study is that the newly calculated orbit puts 
+Planet 9 closer to the Sun than originally thought. This is odd, because if it 
+is closer then we should have already found it. The authors argue that 
+observations thus far have ruled out the closest options for Planet 9, which 
+helps narrow down its possible location even further. If the planet exists, it 
+should be detectable by the Vera Rubin Observatory in the near future.
+ 
+This study isn’t conclusive, and many astronomers still argue that Planet 9 
+doesn’t exist. But this study makes it clear that we won’t have to argue about 
+it for much longer. Either it will be discovered soon, or observations will rule
+it out as an explanation for the KBO clustering effect.
+ 
+Reference: Michael E. Brown, Konstantin Batygin. “The orbit of Planet Nine[5].” 
+arXiv preprint arXiv:2108.09868 (2021).
+ 
+The post If Planet 9 is out There, Here's Where to Look[6] appeared first on 
+Universe Today[7].
+ 
+Links: 
+[1]: https://www.universetoday.com/post/alas-poor-ceres/ (link)
+[2]: https://www.universetoday.com/wp-content/uploads/2021/08/orbits-1024x576.jpg (image)
+[3]: https://briankoberlein.com/post/planet-that-never-was/ (link)
+[4]: https://briankoberlein.com/blog/hole-world/ (link)
+[5]: https://arxiv.org/abs/2108.09868 (link)
+[6]: https://www.universetoday.com/152351/if-planet-9-is-out-there-heres-where-to-look/ (link)
+[7]: https://www.universetoday.com/ (link)
+

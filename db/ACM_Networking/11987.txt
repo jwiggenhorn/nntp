@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Communications / Networking
+Title: Website Predicts Effectiveness of School COVID Testing Policies
+Date: Tue, 07 Sep 2021 11:00:08 -0500
+Link: http://cacm.acm.org/news/255338-website-predicts-effectiveness-of-school-covid-testing-policies
+Message-ID: <IO23zjW2kt@acm.org>
+ 
+Researchers at the data research company Mathematica have created an interactive
+website to help school officials consider their options for coronavirus testing.
+

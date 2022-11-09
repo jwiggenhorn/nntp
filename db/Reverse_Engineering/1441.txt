@@ -1,0 +1,16 @@
+Feed: Reverse Engineering
+Title: Breaking the software licensing of early-2000s abandonware: reverse 
+Message-ID: <kPfrmJ@reddit.com>
+engineering for software preservation
+Author: /u/RunasSudo
+Date: Sun, 29 Aug 2021 06:24:04 -0500
+Link: https://www.reddit.com/r/ReverseEngineering/comments/pdtj4w/breaking_the_software_licensing_of_early2000s/
+ 
+submitted by /u/RunasSudo [1] 
+[link][2] [comments][3]
+ 
+Links: 
+[1]: https://www.reddit.com/user/RunasSudo (link)
+[2]: https://yingtongli.me/blog/2021/08/29/drm5-1.html (link)
+[3]: https://www.reddit.com/r/ReverseEngineering/comments/pdtj4w/breaking_the_software_licensing_of_early2000s/ (link)
+

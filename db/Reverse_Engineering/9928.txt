@@ -1,0 +1,16 @@
+Feed: Reverse Engineering
+Title: Javascript Anti Debugging — Some Next Level Sh*t (Part 2— Abusing 
+Message-ID: <VCYHy5@reddit.com>
+Chromium Devtools Scope Pane)
+Author: /u/tnavda
+Date: Sun, 05 Sep 2021 07:23:23 -0500
+Link: https://www.reddit.com/r/ReverseEngineering/comments/pic586/javascript_anti_debugging_some_next_level_sht/
+ 
+submitted by /u/tnavda [1] 
+[link][2] [comments][3]
+ 
+Links: 
+[1]: https://www.reddit.com/user/tnavda (link)
+[2]: https://medium.com/@weizmangal/javascript-anti-debugging-some-next-level-sh-t-part-2-abusing-chromium-devtools-scope-pane-b2796c00331d (link)
+[3]: https://www.reddit.com/r/ReverseEngineering/comments/pic586/javascript_anti_debugging_some_next_level_sht/ (link)
+

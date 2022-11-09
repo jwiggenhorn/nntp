@@ -1,0 +1,10 @@
+Feed: Naked Security
+Title: Big bad decryption bug in OpenSSL – but no cause for alarm
+Author: Paul Ducklin
+Date: Fri, 27 Aug 2021 13:03:21 -0500
+Message-ID: <Acogt@sophos.com>
+Link: https://nakedsecurity.sophos.com/2021/08/27/big-bad-decryption-bug-in-openssl-but-no-cause-for-alarm/
+ 
+The buggy code's in there, alright. Fortunately, it's hard to get OpenSSL to use
+it even if you want to, which mitigates the risk.
+

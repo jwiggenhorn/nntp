@@ -1,0 +1,65 @@
+Feed: KitPloit - PenTest Tools!
+Title: CobaltStrikeParser - Python parser for CobaltStrike Beacon's 
+configuration
+Author: Unknown
+Message-ID: <wuLoqu@kitploit.com>
+Date: Fri, 03 Sep 2021 16:30:00 -0500
+Link: http://feedproxy.google.com/~r/PentestTools/~3/DLkBRbrlRNQ/cobaltstrikeparser-python-parser-for.html
+ 
+[image 1 (link #2)][1]
+ 
+ 
+Python parser for CobaltStrike[3] Beacon's configuration
+ 
+Description
+ 
+Use parse_beacon_config.py for stageless beacons, memory dumps or C2 urls with 
+metasploit[4] compatibility mode (default true).
+Many stageless beacons are PEs where the beacon[5] code itself is stored in the 
+.data section and xored with 4-byte key.
+The script tries to find the xor key and data heuristically, decrypt the data 
+and parse the configuration from it.
+ 
+This is designed so it can be used as a library[6] too.
+ 
+The repo now also includes a small commuincation module (comm.py) that can help 
+with communcating to a C2 server as a beacon.
+ 
+ 
+Usage
+ 
+usage: parse_beacon_config.py [-h] [--json] [--quiet] [--version VERSION] beacon
+ 
+Parses CobaltStrike Beacon's configuration from PE, memory dump or URL.
+ 
+positional arguments:
+  beacon This can be a file path or a url (if started with http/s)
+ 
+optional arguments:
+  -h, --help show this help message and exit
+  --json Print as json
+  --quiet Do not print missing or empty settings
+  --version VERSION Try as specific cobalt version (3 or 4). If not specified, 
+  tries both.
+ 
+ 
+Extra
+ 
+To use the communication poc copy it to the main folder and run it from there. 
+For installing the M2Crypto library (a requirement for the poc) on Windows, it's
+easiest with installers found online, and not through pip.
+ 
+ 
+Download CobaltStrikeParser[7]
+[image 2 (link #8)]
+ 
+Links: 
+[1]: https://1.bp.blogspot.com/-KwE-3ozdXpc/YSMpVtUacLI/AAAAAAAAtc0/5T0GdjqXt5MVavSBjXBZaHQ1zLzM3tCFgCNcBGAsYHQ/s669/CobaltStrike.png (link)
+[2]: https://1.bp.blogspot.com/-KwE-3ozdXpc/YSMpVtUacLI/AAAAAAAAtc0/5T0GdjqXt5MVavSBjXBZaHQ1zLzM3tCFgCNcBGAsYHQ/w640-h204/CobaltStrike.png (image)
+[3]: https://www.kitploit.com/search/label/CobaltStrike (link)
+[4]: https://www.kitploit.com/search/label/Metasploit (link)
+[5]: https://www.kitploit.com/search/label/Beacon (link)
+[6]: https://www.kitploit.com/search/label/Library (link)
+[7]: https://github.com/Sentinel-One/CobaltStrikeParser (link)
+[8]: http://feeds.feedburner.com/~r/PentestTools/~4/DLkBRbrlRNQ (image)
+

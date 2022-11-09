@@ -1,0 +1,18 @@
+Feed: The Hacker News
+Title: Cisco Issues Patch for Critical Enterprise NFVIS Flaw — PoC Exploit 
+Available
+Author: Ravie Lakshmanan
+Date: Sat, 04 Sep 2021 02:07:48 -0500
+Message-ID: <BBn7XGOq@thn.com>
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/62_Sa5DBHuY/cisco-issues-patch-for-critical.html
+ 
+Cisco has patched a critical security vulnerability impacting its Enterprise 
+Network Function Virtualization Infrastructure Software (NFVIS) that could be 
+exploited by an attacker to take control of an affected system. Tracked as 
+CVE-2021-34746, the weakness has been rated 9.8 out of a maximum of 10 on the 
+Common Vulnerability Scoring System (CVSS) and could allow a remote attacker to 
+circumvent[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/62_Sa5DBHuY (image)
+

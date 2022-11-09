@@ -1,0 +1,160 @@
+Feed: KitPloit - PenTest Tools!
+Title: Zuthaka - An Open Source Application Designed To Assist Red-Teaming 
+Efforts, By Simplifying The Task Of Managing Different APTs And Other 
+Post-Exploitation Tools
+Message-ID: <Kgsj3v@kitploit.com>
+Author: Unknown
+Date: Sat, 04 Sep 2021 07:30:00 -0500
+Link: http://feedproxy.google.com/~r/PentestTools/~3/M1jwxLUQMf0/zuthaka-open-source-application.html
+ 
+[image 1 (link #2)][1]
+ 
+ 
+A collaborative free open-source Command & Control integration framework that 
+allows developers to concentrate on the core function and goal of their C2. 
+Explore the docs »[3]
+ 
+ 
+About the project
+ 
+Problem Statement
+ 
+The current C2s ecosystem has rapidly grown in order to adapt to modern red team
+operations[4] and diverse needs (further information on C2 selection can be 
+found here[5]). This comes with a lot of overhead work for Offensive Security 
+professionals everywhere. Creating a C2 is already a demanding task, and most 
+C2s available lack an intuitive and easy to use[6] web interface. Most Red Teams
+must independently administer and understand each C2 in their infrastructure.
+ 
+Solution
+ 
+With the belief that community efforts surpass that of any individual, Zuthaka 
+presents a simplified API for fast and clear integration of C2s and provides a 
+centralized management[7] for multiple C2 instances through a unified interface 
+for Red Team operations.
+ 
+Zuthaka is more than just a collection of C2s, it is also a solid foundation 
+that can be built upon and easily customized to meet the needs of the exercise 
+that needs to be accomplish. This integration framework for C2 allows developers
+to concentrate on a unique target environment and not have to reinvent the 
+wheel. [8]
+ 
+ 
+[image 2 (link #10)][9]
+ 
+ 
+Built With
+ 
+  * Django Rest Framework[11]
+  * Redis[12]
+  * ReactJS[13]
+  * Nginx[14]
+  * Docker[15]
+  * PostgreSQL[16]
+ 
+ 
+Already Supported C2
+ 
+  * Covenant
+  * Empire
+ 
+ 
+Getting Started
+ 
+Zuthaka is composed of a front-end that exposes a UI for the API of process 
+manager, file manager, shell post-exploitation[17] modules and general C2 
+handling, and a back-end, in charge of handling the consistency and availability
+issues of the C2s instantiated in Zuthaka. Also deployed is Redis as a message 
+broker to handle asynchronously every element in the Agent's UI and an Nginx 
+server.
+ 
+Prerequisites
+ 
+The installation of a working Docker instance is necessary for the automatic 
+deployment of the essential infrastructure[18] (Zuthaka's frontend and backend, 
+Nginx, Redis). All the desired C2s that need to be handled should be deployed in
+parallel.
+ 
+Installation
+ 
+To build the full Zuthaka project, first download dependencies.
+ 
+ git clone https://github.com/pucara/zuthaka
+ 
+To start the project with the corresponding services, the docker-compose file 
+can be utilized.
+ 
+docker-compose up
+ 
+ 
+Usage
+ 
+ 
+[image 3 (link #20)][19]
+ 
+After de solution is deployed, the available class handlers will be incorporated
+on zuthaka for you to use it to integrate your infrastructure.
+ 
+For further information, please refer to the Documentation[3]
+ 
+Unreleased
+ 
+Added
+ 
+  * service instantiation of C2
+  * service creation of listeners
+  * service deletion of listeners
+  * service download of launchers
+  * service agent integration
+  * Automatic database collection of handler classes
+  * "out of the box" listing of ProcessManager and FileManager
+ 
+ 
+Roadmap
+ 
+  * service usage of post-exploitation modules
+ 
+ 
+License
+ 
+Distributed under the BSD-3 clause License. See LICENSE.md for more information.
+ 
+Contact
+ 
+Pucara team - @pucara[21] - contant@pucara.io[22]
+ 
+Zuthaka community on discord - Zuthaka[23]
+ 
+Project Link: https://github.com/pucarasec/zuthaka[24]
+ 
+ 
+Download Zuthaka[24]
+[image 4 (link #25)]
+ 
+Links: 
+[1]: https://1.bp.blogspot.com/-Vrk7pWUcXy4/YSRke2MGrVI/AAAAAAAAtxQ/sfHuL2UXIOQ4hjtkfeUcuEp-Tc5OUF4VwCNcBGAsYHQ/s790/zuthaka_1.png (link)
+[2]: https://1.bp.blogspot.com/-Vrk7pWUcXy4/YSRke2MGrVI/AAAAAAAAtxQ/sfHuL2UXIOQ4hjtkfeUcuEp-Tc5OUF4VwCNcBGAsYHQ/w640-h174/zuthaka_1.png (image)
+[3]: https://docs.zuthaka.com/ (link)
+[4]: https://www.kitploit.com/search/label/Operations (link)
+[5]: https://www.thec2matrix.com/ (link)
+[6]: https://www.kitploit.com/search/label/Easy%20To%20Use (link)
+[7]: https://www.kitploit.com/search/label/Management (link)
+[8]: https://github.com/pucarasec/zuthaka/blob/main/.img/draw-infrastructure.jpg (link)
+[9]: https://1.bp.blogspot.com/-h9VYQDjhP8Y/YSRkli74TrI/AAAAAAAAtxU/XcpeOyc7h08N39rIvygf8SqQYXw_GsfbwCNcBGAsYHQ/s1094/zuthaka_5_draw-infrastructure.jpeg (link)
+[10]: https://1.bp.blogspot.com/-h9VYQDjhP8Y/YSRkli74TrI/AAAAAAAAtxU/XcpeOyc7h08N39rIvygf8SqQYXw_GsfbwCNcBGAsYHQ/w640-h362/zuthaka_5_draw-infrastructure.jpeg (image)
+[11]: https://www.django-rest-framework.org/ (link)
+[12]: https://redis.io/ (link)
+[13]: https://reactjs.org/ (link)
+[14]: https://www.nginx.com/ (link)
+[15]: https://www.docker.com/ (link)
+[16]: https://www.postgresql.org// (link)
+[17]: https://www.kitploit.com/search/label/Post-Exploitation (link)
+[18]: https://www.kitploit.com/search/label/Infrastructure (link)
+[19]: https://1.bp.blogspot.com/-IX0KSDVaLyg/YSRks9ewHRI/AAAAAAAAtxY/BUpjcXn2wPoUn1wiiRcRScmuVcX9O-UFQCNcBGAsYHQ/s1842/zuthaka_6_demozuthaka.gif (link)
+[20]: https://1.bp.blogspot.com/-IX0KSDVaLyg/YSRks9ewHRI/AAAAAAAAtxY/BUpjcXn2wPoUn1wiiRcRScmuVcX9O-UFQCNcBGAsYHQ/w640-h316/zuthaka_6_demozuthaka.gif (image)
+[21]: https://twitter.com/pucara (link)
+[22]: mailto:contant@pucara.io (link)
+[23]: https://zuthaka.com/discord (link)
+[24]: https://github.com/pucarasec/zuthaka (link)
+[25]: http://feeds.feedburner.com/~r/PentestTools/~4/M1jwxLUQMf0 (image)
+

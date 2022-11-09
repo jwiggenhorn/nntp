@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Communications / Networking
+Title: The Cloud: Game Changer in IT Security
+Date: Wed, 08 Sep 2021 09:21:27 -0500
+Link: http://cacm.acm.org/news/255359-the-cloud-game-changer-in-it-security
+Message-ID: <O83KzErJx0@acm.org>
+ 
+The move to the cloud makes it harder for companies to keep track of all 
+Internet-connected digital assets.
+

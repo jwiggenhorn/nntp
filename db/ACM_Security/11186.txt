@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Security
+Title: Study: Crowds Can Wise Up to Fake News
+Date: Thu, 09 Sep 2021 10:38:42 -0500
+Link: http://cacm.acm.org/news/255399-study-crowds-can-wise-up-to-fake-news
+Message-ID: <wkTGtcaUO8@acm.org>
+ 
+Scientists suggest crowdsourced assessments from groups of normal readers can 
+virtually match those of professional fact-checkers in vetting news stories.
+

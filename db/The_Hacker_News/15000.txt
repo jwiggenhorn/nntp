@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: Moving Forward After CentOS 8 EOL
+Author: The Hacker News
+Date: Fri, 10 Sep 2021 06:14:40 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/gKc39rXTBD8/moving-forward-after-centos-8-eol.html
+Message-ID: <SutJCsaQ@thn.com>
+ 
+The Linux community was caught unprepared when, in December 2020, as part of a 
+change in the way Red Hat supports and develops CentOS, Red Hat suddenly 
+announced that it's cutting the official CentOS 8 support window from ten years 
+– to just two, with support ending Dec 31, 2021. It created a peculiar situation
+where CentOS 7 users that did the right thing and upgraded quickly to CentOS 8 
+were[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/gKc39rXTBD8 (image)
+

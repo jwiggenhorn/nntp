@@ -1,0 +1,9 @@
+Feed: Naked Security
+Title: Nvidia announces official “anti-cryptomining” software drivers
+Author: Paul Ducklin
+Date: Mon, 22 Feb 2021 15:00:05 -0600
+Message-ID: <ArXNK@sophos.com>
+Link: https://nakedsecurity.sophos.com/2021/02/22/nvidia-announces-official-anti-cryptomining-software-drivers/
+ 
+"It's a DoS, Jim, but not as we know it."
+

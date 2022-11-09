@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Security
+Title: Russia Influences Hackers but Stops Short of Directing Them, Report Says
+Date: Fri, 10 Sep 2021 09:01:58 -0500
+Link: http://cacm.acm.org/news/255427-russia-influences-hackers-but-stops-short-of-directing-them-report-says
+Message-ID: <GgqgrcZVEI@acm.org>
+ 
+The arrangement allows the Russian government some plausible deniability for 
+attacks, researchers found.
+

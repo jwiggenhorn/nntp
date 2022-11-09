@@ -1,0 +1,13 @@
+Feed: xkcd.com
+Title: Revelation
+Date: Sun, 05 Sep 2021 23:00:00 -0500
+Link: https://xkcd.com/2512/
+Message-ID: <fOiSN-RBG@xkcd.com>
+ 
+[image 1: And the heaven departed as a scroll when it is rolled together, but 
+then more heaven kept appearing to replace it, as if the scroll was infinite. 
+(link #1)]
+ 
+Links: 
+[1]: https://imgs.xkcd.com/comics/revelation.png (image)
+

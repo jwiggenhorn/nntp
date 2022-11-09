@@ -1,0 +1,10 @@
+Feed: Communications of the ACM: Security
+Title: Ethereum Weathers Bug That Underlines Possible Blockchain Risks
+Date: Thu, 02 Sep 2021 10:28:42 -0500
+Link: http://cacm.acm.org/news/255277-ethereum-weathers-bug-that-underlines-possible-blockchain-risks
+Message-ID: <vTKOLPJXis@acm.org>
+ 
+Ethereum co-founder Joseph Lubin said the blockchain survived a flaw from 
+outdated software that divided the digital ledger last week, thanks to a quick 
+program update by users.
+

@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: Experts Link Sidewalk Malware Attacks to Grayfly Chinese Hacker Group
+Author: Ravie Lakshmanan
+Date: Fri, 10 Sep 2021 03:18:43 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/mK3ON58t51s/experts-link-sidewalk-malware-attacks.html
+Message-ID: <G46ykICb@thn.com>
+ 
+A previously undocumented backdoor that was recently found targeting an unnamed 
+computer retail company based in the U.S. has been linked to a longstanding 
+Chinese espionage operation dubbed Grayfly. In late August, Slovakian 
+cybersecurity firm ESET disclosed details of an implant called SideWalk, which 
+is designed to load arbitrary plugins sent from an attacker-controlled server, 
+gather[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/mK3ON58t51s (image)
+

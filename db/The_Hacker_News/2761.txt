@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: New 0-Day Attack Targeting Windows Users With Microsoft Office Documents
+Author: Ravie Lakshmanan
+Date: Tue, 07 Sep 2021 23:55:07 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/8XfTlHB1Kh8/new-0-day-attack-targeting-windows.html
+Message-ID: <E179zt5s@thn.com>
+ 
+Microsoft on Tuesday warned of an actively exploited zero-day flaw impacting 
+Internet Explorer that's being used to hijack vulnerable Windows systems by 
+leveraging weaponized Office documents. Tracked as CVE-2021-40444 (CVSS score: 
+8.8), the remote code execution flaw is rooted in MSHTML (aka Trident), a 
+proprietary browser engine for the now-discontinued Internet Explorer and which 
+is used in[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/8XfTlHB1Kh8 (image)
+

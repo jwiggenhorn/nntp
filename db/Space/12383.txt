@@ -1,0 +1,71 @@
+Feed:  Universe Today
+Title: White Dwarfs can Continue Burning Hydrogen, Even After They’re Dead
+Message-ID: <nMBR@nasa.org>
+Author: Paul M. Sutter
+Date: Thu, 09 Sep 2021 16:49:00 -0500
+Link: https://www.universetoday.com/152467/white-dwarfs-can-continue-burning-hydrogen-even-after-theyre-dead/
+ 
+White dwarfs are supposed to be dead remnants of stars, doomed to simply fade 
+away into the background. But new observations show that some are able to 
+maintain some semblance of life by wrapping themselves in a layer of fusing 
+hydrogen.
+ 
+White dwarfs are the dense leftover cores of sunlike stars[1]. They are exposed 
+to the universe when stars build up too much carbon and oxygen in their centers.
+They then tear themselves apart in a slow, agonizing process that eventually 
+creates a planetary nebula. With all the outer layers stripped, the core remains
+– a white dwarf.
+ 
+White dwarfs are inert. They don’t have enough mass to ignite nuclear fusion of 
+their carbon and oxygen, and so they just sit there, slowly radiating away their
+heat for eons upon eons.
+ 
+But new research[2] is challenging that simple story.
+ 
+“We have found the first observational evidence that white dwarfs can still 
+undergo stable thermonuclear activity,” explained Jianxing Chen of the Alma 
+Mater Studiorum Università di Bologna and the Italian National Institute for 
+Astrophysics, who led this research. “This was quite a surprise, as it is at 
+odds with what is commonly believed.”
+ 
+[iframe 1 (link #3)]
+ 
+The research team led by Chen compared two globular clusters, M3 and M13, with 
+the Hubble Space Telescope[4]. They especially focused on near-ultraviolet 
+wavelengths, which allowed them to compare more than 700 white dwarfs inside the
+two clusters.
+ 
+They found that the white dwarfs in M3 were pretty standard, but that M13 had 
+two different populations: one set of normal white dwarfs, and another that were
+enveloped by an outer layer of hydrogen.
+ 
+Combining the results with computer simulations, Chen and his colleagues 
+determined that around 70% of the white dwarfs in M13 had so much hydrogen 
+surrounding them that the shells were actively undergoing fusion. That fusion is
+able to keep the white dwarfs warmer for far longer than astronomers had 
+previously thought possible.
+ 
+Astronomers use established cooling time relationships to connect the 
+temperature of a white dwarf to its age[5], which helps them better understand 
+their origins and environment. The new research makes that relationship a little
+murkier.
+ 
+“Our discovery challenges the definition of white dwarfs as we consider a new 
+perspective on the way in which stars get old,” added Francesco Ferraro of the 
+Alma Mater Studiorum Università di Bologna and the Italian National Institute 
+for Astrophysics, who coordinated the study. “We are now investigating other 
+clusters similar to M13 to further constrain the conditions which drive stars to
+maintain the thin hydrogen envelope which allows them to age slowly.”
+ 
+The post White Dwarfs can Continue Burning Hydrogen, Even After They’re Dead[6] 
+appeared first on Universe Today[7].
+ 
+Links: 
+[1]: https://www.universetoday.com/147543/scientists-recreate-the-density-of-a-white-dwarf-in-the-lab/ (link)
+[2]: https://www.nasa.gov/feature/goddard/2021/hubble-discovers-hydrogen-burning-white-dwarfs-enjoying-slow-aging (link)
+[3]: https://www.youtube.com/embed/-UtlNmxAeU0?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent (iframe)
+[4]: https://www.universetoday.com/151669/nasa-continues-to-try-and-rescue-failing-hubble/ (link)
+[5]: https://www.universetoday.com/141580/the-oldest-and-coldest-white-dwarf-ever-found-has-bizarre-dust-rings-around-it/ (link)
+[6]: https://www.universetoday.com/152467/white-dwarfs-can-continue-burning-hydrogen-even-after-theyre-dead/ (link)
+[7]: https://www.universetoday.com/ (link)
+

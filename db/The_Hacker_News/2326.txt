@@ -1,0 +1,18 @@
+Feed: The Hacker News
+Title: Microsoft Says Chinese Hackers Were Behind SolarWinds Serv-U SSH 0-Day 
+Attack
+Author: Ravie Lakshmanan
+Date: Mon, 06 Sep 2021 05:12:29 -0500
+Message-ID: <MhQfJAJq@thn.com>
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/tp-FCNzHRR4/microsoft-says-chinese-hackers-were.html
+ 
+Microsoft has shared technical details about a now-fixed, actively exploited 
+critical security vulnerability affecting SolarWinds Serv-U managed file 
+transfer service that it has attributed with "high confidence" to a threat actor
+operating out of China. In mid-July, the Texas-based company remedied a remote 
+code execution flaw (CVE-2021-35211) that was rooted in Serv-U's implementation 
+of the[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/tp-FCNzHRR4 (image)
+

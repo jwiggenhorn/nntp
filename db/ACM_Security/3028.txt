@@ -1,0 +1,9 @@
+Feed: Communications of the ACM: Security
+Title: There's a Better Way to Stop Ransomware Attacks
+Date: Wed, 01 Sep 2021 09:02:30 -0500
+Link: http://cacm.acm.org/opinion/articles/255236-theres-a-better-way-to-stop-ransomware-attacks
+Message-ID: <pycPpWSYRF@acm.org>
+ 
+Adopt and enforce regulations for the cryptocurrency industry that are 
+equivalent to traditional banking
+

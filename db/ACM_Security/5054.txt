@@ -1,0 +1,10 @@
+Feed: Communications of the ACM: Security
+Title: Cyberattackers Now Quietly Selling Off Their Victim's Internet Bandwidth
+Date: Tue, 07 Sep 2021 11:00:09 -0500
+Link: http://cacm.acm.org/news/255339-cyberattackers-now-quietly-selling-off-their-victims-internet-bandwidth
+Message-ID: <ERTxBMPn1D@acm.org>
+ 
+Hackers and malware developers are now targeting victims' Internet connections 
+to produce illicit income clandestinely via proxyware infections, according to 
+researchers at Cisco Talos.
+

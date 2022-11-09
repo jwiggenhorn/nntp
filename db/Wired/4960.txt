@@ -1,0 +1,10 @@
+Feed:  Wired | Science
+Message-ID: <ySUU8qj9@wired.com>
+Title: Pigeons, Curves, and the Traveling Salesperson Problem
+Author: Ian Stewart
+Date: Tue, 07 Sep 2021 08:00:00 -0500
+Link: https://www.wired.com/story/pigeons-curves-and-the-traveling-salesperson-problem
+ 
+Mathematician Ian Stewart explains the twisty history of combinatorial 
+optimization.
+

@@ -1,0 +1,9 @@
+Feed: Naked Security
+Title: Poisoned proxy PACs! The NPM package with a network-wide security hole…
+Author: Paul Ducklin
+Date: Mon, 06 Sep 2021 13:28:43 -0500
+Message-ID: <wJ0pC@sophos.com>
+Link: https://nakedsecurity.sophos.com/2021/09/06/poisoned-proxy-pacs-the-npm-package-with-a-network-wide-security-hole/
+ 
+3,000,000 downloads a week... if only they'd read the fastidious manual!
+

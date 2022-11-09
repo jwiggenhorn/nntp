@@ -1,0 +1,85 @@
+Feed:  Universe Today
+Title: Astronomers Create 3D Printed Nebulae
+Message-ID: <AHJe@nasa.org>
+Author: Andy Tomaswick
+Date: Fri, 10 Sep 2021 08:13:34 -0500
+Link: https://www.universetoday.com/152509/astronomers-create-3d-printed-nebulae/
+ 
+Visualizations can inspire creative new ways of thinking about an object. But 
+holding that visualization in your hand adds a whole other level of impact to 
+it. That desire for impact has led Dr. Nia Imara, an astrophysicist and artist 
+at UC Santa Cruz[1], to create the first-ever 3D printed models of stellar 
+nurseries.
+ 
+The printed spheres are more than just fancy baseball-sized marbles. Their 
+strands of different colorations represent the filaments and clumps of material 
+naturally found in star-forming regions in space. Dr. Imara worked with John 
+Forbes at the Flatiron Institute’s[2] Center for Computational Astrophysics and 
+James Weaver at Harvard[3] to develop a suite of nine different models of the 
+three forces that impact how stellar nurseries forms: turbulence, gravity, and 
+magnetic fields.
+ 
+[image 1 (link #4)]Nia Imara – the astrophysicist/artist who developed the idea 
+of 3D printing the spheres.
+Credit – Nia Imara
+ 
+Different patterns in the final marbles represent variations in those three 
+forces. The added benefit of a third dimension of visualization allowed 
+researchers to understand how those forces interact in ways never before 
+considered. Lighter areas correspond to dense clumps of gas and dust, whereas 
+the darker swirls represent the void of space itself.
+ 
+Those intricate swirls resulted from a type of inkjet-like 3D printing[5] 
+process, which differs from the typical extrusion processes a standard desktop 
+3D printer uses. It uses tiny drops of resin precisely deposited at certain 
+locations to create the swirling, whimsical effects seen in the models.
+ 
+[image 2 (link #6)]Some of the 3D printed stellar nursery spheres.
+Credit – Saurabh Mhatre
+ 
+While undeniably pretty to look at, the structures themselves are also 
+interesting from a scientific perspective. Understanding how the filaments and 
+clumps in the model interact based on the three forces is much easier to see 
+when looking at a print of their shape rather than at data on a computer screen.
+Additionally, some of the models were left half-completed, allowing scientists 
+to look at a cross-section of what the inside of the nurseries would look like 
+according to the model.
+ 
+While science was certainly a driving force in the research, Dr. Imara mentioned
+a particular portrait she drew of herself grasping a star that made her 
+originally conceive of this project. But she very easily could have been 
+inspired by an older pop culture reference – spoilers for a 25-year-old movie 
+ahead. In the original Men In Black, the heroes realize that what looks like a 
+sphere on the cat Orion’s belt is actually a whole universe contained in the 
+size of a marble. While not quite that intricately detailed, Dr. Imara’s 3D 
+printed models of stellar nurseries are the closest humanity has come to 
+creating something like that for ourselves – and they are absolutely 
+breathtaking.
+ 
+Learn More:
+USCS – Astronomers create the first 3D-printed stellar nurseries[7]
+Newsweek – Astronomers Can Now Touch the Stars Thanks to 3D-printed Stellar 
+Nurseries[8]
+Cnet – Astronomers 3D-print stellar nurseries you can hold in your hand[9]
+ 
+Lead Image:
+Some of the spheres were left half-finished to help visualize an interior layer 
+of the molecular cloud.
+Credit – Saurabh Mhatre
+ 
+The post Astronomers Create 3D Printed Nebulae[10] appeared first on Universe 
+Today[11].
+ 
+Links: 
+[1]: https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz (link)
+[2]: https://en.wikipedia.org/wiki/Flatiron_Institute (link)
+[3]: https://en.wikipedia.org/wiki/Harvard_University (link)
+[4]: https://www.universetoday.com/wp-content/uploads/2021/09/nia-imara-350.jpg (image)
+[5]: https://en.wikipedia.org/wiki/3D_printing (link)
+[6]: https://www.universetoday.com/wp-content/uploads/2021/09/spheres-group-500.jpg (image)
+[7]: https://news.ucsc.edu/2021/09/touching-stars.html (link)
+[8]: https://www.newsweek.com/astronomers-touch-stars-3d-printed-stellar-nurseries-nia-imara-1625779#:~:text=Astronomers%20Can%20Now%20Touch%20the%20Stars%20Thanks%20to%203D%2Dprinted%20Stellar%20Nurseries,-By%20Robert%20Lea&text=An%20astrophysicist%20and%20artist%20has,star%2Dforming%20regions%20of%20space. (link)
+[9]: https://www.cnet.com/news/astronomers-3d-print-stellar-nurseries-you-can-hold-in-your-hand/ (link)
+[10]: https://www.universetoday.com/152509/astronomers-create-3d-printed-nebulae/ (link)
+[11]: https://www.universetoday.com/ (link)
+

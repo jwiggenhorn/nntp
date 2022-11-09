@@ -1,0 +1,11 @@
+Feed: Communications of the ACM: Communications / Networking
+Title: Smart Glasses Made Google Look Dumb. Now Facebook Is Giving Them a Try.
+Date: Fri, 10 Sep 2021 08:54:04 -0500
+Link: 
+http://cacm.acm.org/news/255424-smart-glasses-made-google-look-dumb-now-facebook 
+-is-giving-them-a-try
+Message-ID: <R7mwnp5FMH@acm.org>
+ 
+The company has teamed up with Ray-Ban to create glasses that can take photos, 
+record video, answer phone calls and play podcasts.
+

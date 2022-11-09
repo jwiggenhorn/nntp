@@ -1,0 +1,119 @@
+Feed:  Universe Today
+Title: Astronomers Locate the Source of High-Energy Cosmic Rays
+Message-ID: <49st@nasa.org>
+Author: Matt Williams
+Date: Fri, 27 Aug 2021 14:19:33 -0500
+Link: https://www.universetoday.com/152330/astronomers-locate-the-source-of-high-energy-cosmic-rays/
+ 
+Roughly a century ago, scientists began to realize that some of the radiation we
+detect in Earth’s atmosphere is not local in origin. This eventually gave rise 
+to the discovery of cosmic rays, high-energy protons and atomic nuclei that have
+been stripped of their electrons and accelerated to relativistic speeds (close 
+to the speed of light). However, there are still several mysteries surrounding 
+this strange (and potentially lethal) phenomenon. 
+ 
+This includes questions about their origins[1] and how the main component of 
+cosmic rays (protons) are accelerated to such high velocity. Thanks to new 
+research led by the University of Nagoya, scientists have quantified the amount 
+of cosmic rays produced in a supernova remnant for the first time. This research
+has helped resolve a 100-year mystery and is a major step towards determining 
+precisely where cosmic rays come from.
+ 
+While scientists theorize that cosmic rays originate from many sources – our 
+Sun, supernovae, gamma-ray bursts (GRBs), and Active Galactic Nuclei[2] (aka. 
+quasars) – their exact origin has been a mystery since they were first 
+discovered in 1912. Similarly, astronomers have theorized that supernova 
+remnants (the after-effects of supernova explosions) are responsible for 
+accelerating them to nearly the speed of light. 
+ 
+[image 1 (link #3)]Showers of high-energy particles occur when energetic cosmic 
+rays strike the top of the Earth’s atmosphere. Cosmic rays were discovered 
+unexpectedly in 1912. Illustration Credit: Simon Swordy (U. Chicago), NASA.
+ 
+As they travel through our galaxy, cosmic rays play a role in the chemical 
+evolution of the interstellar medium (ISM). As such, understanding their origin 
+is critical to understanding how galaxies evolve. In recent years, improved 
+observations have led some scientists to speculate that supernova remnants give 
+rise to cosmic rays because the protons they accelerate interact with protons in
+the ISM to create very high-energy (VHE) gamma rays.
+ 
+However, gamma-rays are also produced by electrons that interact with photons in
+the ISM, which can be in the form of infrared photons or radiation from the 
+Cosmic Microwave Background (CMB). Therefore, determining which source is 
+greater is paramount to determining the origin of cosmic rays. Hoping to shed 
+light on this, the research team – which included members from Nagoya 
+University, the National Astronomical Observatory of Japan[4] (NAOJ), and the 
+University of Adelaide, Australia – observed the supernova remnant RX 
+J1713.7?3946 (RX J1713). 
+ 
+The key to their research was the novel approach they developed to quantify the 
+source of gamma-rays in interstellar space. Past observations have shown that 
+the intensity of VHE gamma-rays caused by protons colliding with other protons 
+in the ISM is proportional to the interstellar gas density, which is discernible
+using radio-line imaging. On the other hand, gamma-rays caused by the 
+interaction of electrons with photons in the ISM are also expected to be 
+proportional to the intensity of nonthermal X-rays from electrons.
+ 
+For the sake of their study, the team relied on data obtained by the High Energy
+Stereoscopic System (HESS), a VHE gamma-ray observatory located in Namibia (and 
+operated by the Max Planck Institute for Nuclear Physics). They then combined 
+this with X-ray data obtained by the ESA’s X-ray Multi-Mirror Mission 
+(XMM-Newton) observatory and data on the distribution of gas in the interstellar
+medium.
+[image 2 (link #5)]Cosmic rays produced by gamma-rays vs. electrons (Top), and 
+data obtained by the HESS and XMM-Newton observations (Bottom). Credit: 
+Astrophysics Laboratory/Nagoya University 
+ 
+They then combined all three data sets and determined that protons account for 
+67 ± 8% of cosmic rays while cosmic-ray electrons account for 33 ± 8% – roughly 
+a 70/30 split. These findings are groundbreaking since they are the first time 
+that the possible origins of cosmic rays have been quantified. They also 
+constitute the most definitive evidence to date that supernova remnants are the 
+source of cosmic rays. 
+ 
+These results also demonstrate that gamma-rays from protons are more common in 
+gas-rich interstellar regions, whereas those caused by electrons are enhanced in
+the gas-poor regions. This supports what many researchers have predicted, which 
+is that the two mechanisms work together to influence the evolution of the ISM. 
+Said[6] Emeritus Professor Yasuo Fukui, who was the study’s lead author:
+ 
+  “This novel method could not have been accomplished without international 
+  collaborations. [It] will be applied to more supernova remnants using the 
+  next-generation gamma-ray telescope CTA (Cherenkov Telescope Array) in 
+  addition to the existing observatories, which will greatly advance the study 
+  of the origin of cosmic rays.”
+ 
+In addition to leading this project, Fukui has been working to quantify 
+interstellar gas distribution since 2003 using the NANTEN[7] radio telescope at 
+the Las Campanas Observatory[8] in Chile and the Australia Telescope Compact 
+Array[9]. Thanks to Professor Gavin Rowell and Dr. Sabrina Einecke of the 
+University of Adelaide (co-authors on the study) and the H.E.S.S. team, the 
+spatial resolution and sensitivity of gamma-ray observatories has finally 
+reached the point where it is possible to draw comparisons between the two.
+ 
+Meanwhile, co-author Dr. Hidetoshi Sano of the NAOJ led the analysis of archival
+datasets from the XMM-Newton observatory. In this respect, this study also shows
+how international collaborations and data-sharing are enabling all kinds of 
+cutting-edge research. Along with improved instruments, improved methods and 
+greater opportunities for cooperation are leading to an age where astronomical 
+breakthroughs are becoming a regular occurrence!
+ 
+Further Reading: Nagoya University[6], The Astrophysical Journal[10]
+ 
+The post Astronomers Locate the Source of High-Energy Cosmic Rays[11] appeared 
+first on Universe Today[12].
+ 
+Links: 
+[1]: https://www.universetoday.com/43876/solving-the-mystery-of-cosmic-rays-origins/ (link)
+[2]: https://www.universetoday.com/30719/active-galactic-nuclei/ (link)
+[3]: https://www.universetoday.com/wp-content/uploads/2007/12/crshower2_nasa.jpg (image)
+[4]: https://www.nao.ac.jp/en/ (link)
+[5]: https://www.universetoday.com/wp-content/uploads/2021/08/Figure-1_rxj-1024x576.jpg (image)
+[6]: https://en.nagoya-u.ac.jp/research/activities/news/2021/08/post-2.html (link)
+[7]: https://ui.adsabs.harvard.edu/abs/2000AstHe..93..413F/abstract (link)
+[8]: http://www.lco.cl/ (link)
+[9]: https://www.narrabri.atnf.csiro.au/ (link)
+[10]: https://iopscience.iop.org/article/10.3847/1538-4357/abff4a (link)
+[11]: https://www.universetoday.com/152330/astronomers-locate-the-source-of-high-energy-cosmic-rays/ (link)
+[12]: https://www.universetoday.com/ (link)
+

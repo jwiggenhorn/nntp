@@ -1,0 +1,17 @@
+Feed: The Hacker News
+Title: SOVA: New Android Banking Trojan Emerges With Growing Capabilities
+Author: Ravie Lakshmanan
+Date: Fri, 10 Sep 2021 05:24:59 -0500
+Link: http://feedproxy.google.com/~r/TheHackersNews/~3/8EhtY3kWYRE/sova-new-android-banking-trojan-emerges.html
+Message-ID: <gaXaLRGG@thn.com>
+ 
+A mix of banking applications, cryptocurrency wallets, and shopping apps from 
+the U.S. and Spain are the target of a newly discovered Android trojan that 
+could enable attackers to siphon personally identifiable information from 
+infected devices, including banking credentials and open the door for on-device 
+fraud. Dubbed S.O.V.A. (referring to the Russian word for owl), the current 
+version of the[image 1 (link #1)]
+ 
+Links: 
+[1]: http://feeds.feedburner.com/~r/TheHackersNews/~4/8EhtY3kWYRE (image)
+
